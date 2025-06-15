@@ -1,0 +1,463 @@
+/* Estilos Gerais */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    background-color: #f0f2f5; /* Um cinza claro suave */
+    color: #333;
+    line-height: 1.6;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+header {
+    background-color: #20B2AA; /* Azul turquesa vibrante */
+    color: white;
+    padding: 1rem 0;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    /* Removido position: relative; daqui para que o botão Home flutue em relação à viewport */
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    /* Removido position: relative; e padding-right: 120px; daqui */
+    /* Agora o header-content não precisa de padding extra por causa do botão flutuante */
+}
+
+header img {
+    height: 60px; /* Ajuste o tamanho do mascote no header */
+    width: auto;
+}
+
+h1, h2 {
+    color: #333;
+    margin-top: 0;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 2rem;
+    color: #20B2AA;
+}
+
+main {
+    flex-grow: 1;
+    padding: 20px;
+    max-width: 1000px;
+    margin: 20px auto;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.screen {
+    padding: 20px;
+}
+
+.hidden {
+    display: none !important;
+}
+
+/* Nova Seção de Explicação do Site */
+#site-explanation {
+    background-color: #d1e7dd; /* Um verde claro suave */
+    border: 1px solid #28a745;
+    border-radius: 8px;
+    padding: 25px;
+    margin-bottom: 30px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+#site-explanation h2 {
+    color: #155724; /* Verde escuro */
+    margin-bottom: 1rem;
+}
+
+#site-explanation p {
+    font-size: 1rem;
+    color: #386a45;
+    margin-bottom: 0.5rem;
+}
+
+
+/* Seleção de Módulos */
+#module-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+.module-card {
+    background-color: #e0f2f7; /* Um tom mais claro do azul */
+    border: 1px solid #b2e0ec;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.module-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.module-card h3 {
+    color: #00796b; /* Um verde-azulado mais escuro */
+    margin-top: 0;
+    font-size: 1.3rem;
+}
+
+.module-card p {
+    font-size: 0.9rem;
+    color: #555;
+}
+
+/* Conteúdo do Módulo / Exercício */
+#module-content {
+    text-align: center;
+}
+
+#exercise-container {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 25px;
+    margin-bottom: 20px;
+}
+
+#exercise-question {
+    font-size: 1.2rem;
+    margin-bottom: 1.5rem;
+    font-weight: bold;
+    color: #444;
+}
+
+.options-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.options-list li {
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 12px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.options-list li:hover {
+    background-color: #e0e0e0;
+}
+
+.options-list li.selected {
+    background-color: #d1e7dd; /* Verde claro para seleção */
+    border-color: #28a745; /* Verde escuro */
+}
+
+input[type="text"] {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin-top: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+.navigation-buttons button {
+    background-color: #00796b;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    margin: 5px;
+    transition: background-color 0.2s;
+}
+
+.navigation-buttons button:hover:not(:disabled) {
+    background-color: #004d40;
+}
+
+.navigation-buttons button:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+}
+
+#feedback-area {
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 8px;
+    min-height: 120px; /* Espaço para o mascote */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+#feedback-area img {
+    max-height: 100px; /* Tamanho do mascote no feedback */
+    width: auto;
+    margin-bottom: 10px;
+}
+
+#feedback-text {
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+#feedback-area.correct {
+    background-color: #d4edda;
+    color: #155724;
+}
+
+#feedback-area.incorrect {
+    background-color: #f8d7da;
+    color: #721c24;
+}
+
+/* Estilos para o Desafio */
+#challenge-screen {
+    text-align: center;
+}
+
+#challenge-timer {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #d9534f; /* Vermelho para o timer */
+    margin-bottom: 20px;
+}
+
+#challenge-pairs {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.challenge-item { /* Estilo comum para palavras e traduções */
+    background-color: #f0f8ff;
+    border: 1px solid #a8d9ff;
+    padding: 15px;
+    border-radius: 5px;
+    cursor: grab;
+    font-size: 1.1rem;
+    min-height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    transition: background-color 0.2s, box-shadow 0.2s;
+}
+
+.challenge-item.selected {
+    background-color: #cce5ff;
+    border-color: #007bff;
+    box-shadow: 0 0 0 2px #007bff;
+}
+
+.challenge-item.matched {
+    background-color: #d4edda;
+    border-color: #28a745;
+    cursor: default;
+    opacity: 0.7;
+}
+
+#challenge-feedback-area {
+    margin-top: 30px;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    color: #333;
+    text-align: center;
+}
+
+#challenge-feedback-area p {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+#challenge-feedback-area button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    margin: 5px;
+    transition: background-color 0.2s;
+}
+
+#challenge-feedback-area button:hover {
+    background-color: #0056b3;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    font-size: 0.85rem;
+    margin-top: 20px;
+}
+
+/* Responsividade básica */
+@media (max-width: 768px) {
+    #module-list {
+        grid-template-columns: 1fr;
+    }
+    .header-content h1 {
+        font-size: 1.5rem;
+    }
+    header img {
+        height: 50px;
+    }
+}
+
+/* Estilos para o Texto Base */
+#text-base-container {
+    background-color: #f0f2f5;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 30px;
+    text-align: left;
+    box-shadow: inset 0 1px 3px rgba(0,0,0,0.05);
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+#text-base-container h3 {
+    color: #00796b;
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 1.1rem;
+    text-align: center;
+}
+
+#text-base-content pre {
+    font-family: 'Roboto Mono', 'Courier New', monospace;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    margin: 0;
+    padding: 0;
+    color: #555;
+}
+
+/* Ajustes para dispositivos menores */
+@media (max-width: 768px) {
+    #text-base-container {
+        padding: 15px;
+        max-height: 300px;
+    }
+    #text-base-content pre {
+        font-size: 0.9rem;
+    }
+}
+
+/* Estilos do Botão Home (FLUTUANTE) */
+.home-button-style {
+    background-color: #20B2AA;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    /* Posição Fixa para flutuar */
+    position: fixed; /* MUDANÇA PRINCIPAL AQUI */
+    top: 15px; /* Distância do topo */
+    right: 15px; /* Distância da direita */
+    
+    color: rgb(255, 255, 255);
+    font-size: 1.0rem;
+    font-weight: bold;
+    text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+    z-index: 1000; 
+    transition: opacity 0.3s ease-in-out, transform 0.2s ease-in-out;
+}
+
+.home-button-style.hidden {
+    opacity: 0;
+    pointer-events: none;
+}
+
+.home-button-style:hover {
+    transform: scale(1.05); /* Um pequeno zoom no botão ao passar o mouse */
+}
+
+.home-button-style img {
+    height: 40px;
+    width: auto;
+    margin-bottom: 5px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.home-button-style:hover img {
+    transform: scale(1.1);
+}
+
+.home-button-style span {
+    display: block;
+    text-align: center;
+}
+
+/* Removidos ajustes do header-content pois o botão agora é fixed */
+/* main não precisa de position: relative por causa do botão fixed */
+
+
+/* Estilos da Barra de Progresso e Acertos */
+.module-progress {
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    border: 1px solid #eee;
+}
+
+#correct-answers-display {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #00796b;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.progress-bar-container {
+    width: 100%;
+    background-color: #e0e0e0;
+    border-radius: 5px;
+    height: 15px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+#progress-bar-fill {
+    height: 100%;
+    width: 0%;
+    background-color: #28a745;
+    border-radius: 5px;
+    transition: width 0.3s ease-in-out;
+}

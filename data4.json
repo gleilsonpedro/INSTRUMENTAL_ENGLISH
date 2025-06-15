@@ -1,0 +1,258 @@
+{
+  "id": "saude_interm_1",
+  "titulo": "Saúde e Educação: Impactos no Cérebro",
+  "descricao": "Este módulo explora a relação entre educação, saúde cerebral, e o conceito de reserva cognitiva, com base em um texto acadêmico.",
+  "texto_base": "1- Few would doubt the benefits of education. People who graduate from high school tend to earn more, and generally have more choices and a better quality of life than those who do not, and for those who finish college, the benefits are even bigger. A good education may have other advantages. Research published in the past few years suggests that it can strengthen the brain, making it more resistant to the ravages of old age, and perhaps mitigating the damage that occurs after traumatic brain injury. Research into the link between education and dementia began in the mid-1980s and evidence suggests that a higher level of educational attainment is associated with both a decreased risk of Alzheimer's disease and age-related cognitive decline. They also point that education beyond high school is more strongly associated with better lifelong brain health outcomes in blacks than whites.\n\n2- Level of education is often closely associated with socioeconomic status, and the relationship between the two confounded the results obtained in some of the earlier studies, but more recent findings show that they are indeed independent of one another, and that education is by far the more significant factor in brain health. Level of education may also accurately predict the extent to which one will recover following traumatic brain injury (TBI). Researchers from Johns Hopkins Medical School tracked the progress of 800 patients, all of whom had been admitted for rehabilitation after moderate to severe TBI. The results show that the more highly educated a patient was, the more likely they were to recover and be free from disability. Many researchers explain findings such as these in terms of cognitive reserve, a concept that stems from observations that some people can continue to function normally despite brain pathology.\n\n3-The term 'cognitive reserve' was first used in a 1988 study, in which researchers from the University of California, San Diego examined the brains of 137 nursing home residents, all of whom had undergone neuropsychological testing before they died. While 10 of these people remained cognitively healthy and outperformed healthy individuals on the tests-post-mortem, examination revealed in their brains pathological changes associated with Alzheimer's. These people also had heavier brains and more neurons than both the demented and healthy residents included, leading the researchers to hypothesize that these extra brain cells provided a 'reserve' that made them better at dealing with the damage caused by the disease.\n\nGLOSSARY\nTo strengthen: to fortify\nAttainment: achievement\nOutcomes: results",
+  "niveis_desafio_pontuacao": {
+    "facil": "70-80% de acertos",
+    "medio": "80-90% de acertos",
+    "dificil": "90-100% de acertos"
+  },
+  "exercicios": [
+    {
+      "id": "ex_sib1_1",
+      "tipo": "multipla_escolha",
+      "pergunta": "De acordo com o texto base, qual benefício adicional de uma boa educação é sugerido por pesquisas recentes?",
+      "contexto_texto_ref": "Parágrafo 1 do texto base",
+      "opcoes": ["Garantir melhores empregos no futuro", "Fortalecer o cérebro, tornando-o mais resistente aos efeitos da idade", "Aumentar o número de amigos na velhice", "Melhorar a memória para eventos passados"],
+      "resposta_correta": "Fortalecer o cérebro, tornando-o mais resistente aos efeitos da idade",
+      "explicacao": "O texto afirma: 'Research published in the past few years suggests that it can strengthen the brain, making it more resistant to the ravages of old age'."
+    },
+    {
+      "id": "ex_sib1_2",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A pesquisa sobre a ligação entre educação e demência começou na década de 1980 e sugere que um nível mais alto de escolaridade está associado a um risco diminuído de Alzheimer e declínio cognitivo relacionado à idade. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 1 do texto base",
+      "resposta_correta": true,
+      "explicacao": "O texto diz: 'Research into the link between education and dementia began in the mid-1980s and evidence suggests that a higher level of educational attainment is associated with both a decreased risk of Alzheimer's disease and age-related cognitive decline'."
+    },
+    {
+      "id": "ex_sib1_3",
+      "tipo": "pergunta_resposta",
+      "pergunta": "No contexto do texto base, a que o pronome 'it' se refere na frase 'A good education may have other advantages. Research published in the past few years suggests that it can strengthen the brain'?",
+      "contexto_texto_ref": "Parágrafo 1 do texto base",
+      "respostas_aceitas": ["a good education", "uma boa educação"],
+      "explicacao": "No PDF original, a Questão 3 (pág. 21) indica que 'it' se refere a 'A good education'."
+    },
+    {
+      "id": "ex_sib1_4",
+      "tipo": "multipla_escolha",
+      "pergunta": "Qual a relação entre o nível de educação e o status socioeconômico, de acordo com o texto base?",
+      "contexto_texto_ref": "Parágrafo 2 do texto base",
+      "opcoes": ["São sempre interdependentes", "São fatores independentes e a educação é o mais significativo para a saúde cerebral", "O status socioeconômico é o fator mais relevante", "A relação é confusa e não pode ser determinada"],
+      "resposta_correta": "São fatores independentes e a educação é o mais significativo para a saúde cerebral",
+      "explicacao": "O texto diz: 'more recent findings show that they are indeed independent of one another, and that education is by far the more significant factor in brain health'."
+    },
+    {
+      "id": "ex_sib1_5",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A recuperação após uma lesão cerebral traumática (TBI) moderada a grave está relacionada ao nível de educação do paciente. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 2 do texto base",
+      "resposta_correta": true,
+      "explicacao": "O texto afirma: 'The results show that the more highly educated a patient was, the more likely they were to recover and be free from disability'."
+    },
+    {
+      "id": "ex_sib1_6",
+      "tipo": "pergunta_resposta",
+      "pergunta": "Qual o termo em inglês que se refere a um conceito que 'stems from observations that some people can continue to function normally despite brain pathology'?",
+      "contexto_texto_ref": "Parágrafo 2 do texto base",
+      "respostas_aceitas": ["cognitive reserve", "reserva cognitiva"],
+      "explicacao": "O texto explica 'Many researchers explain findings such as these in terms of cognitive reserve, a concept that stems from observations that some people can continue to function normally despite brain pathology'."
+    },
+    {
+      "id": "ex_sib1_7",
+      "tipo": "multipla_escolha",
+      "pergunta": "A palavra 'stems' (derivada de) no texto base é mais próxima em significado de qual alternativa?",
+      "contexto_texto_ref": "Parágrafo 2 do texto base",
+      "opcoes": ["Derives", "Cancels", "Insists", "Understands"],
+      "resposta_correta": "Derives",
+      "explicacao": "No PDF original, a Questão 6 (pág. 22) indica que 'stems' pode ser substituída por 'Derives'."
+    },
+    {
+      "id": "ex_sib1_8",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "O termo 'cognitive reserve' foi usado pela primeira vez em um estudo de 1988 que examinou apenas os cérebros de residentes com demência. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 3 do texto base",
+      "resposta_correta": false,
+      "explicacao": "O estudo examinou '137 nursing home residents, all of whom had undergone neuropsychological testing before they died', incluindo pessoas que permaneceram cognitivamente saudáveis."
+    },
+    {
+      "id": "ex_sib1_9",
+      "tipo": "pergunta_resposta",
+      "pergunta": "No estudo de 1988, quais características cerebrais foram encontradas em pessoas que permaneceram cognitivamente saudáveis apesar de mudanças patológicas associadas ao Alzheimer?",
+      "contexto_texto_ref": "Parágrafo 3 do texto base",
+      "respostas_aceitas": ["cérebros mais pesados e mais neurônios", "heavier brains and more neurons"],
+      "explicacao": "'These people also had heavier brains and more neurons than both the demented and healthy residents included'."
+    },
+    {
+      "id": "ex_sib1_10",
+      "tipo": "multipla_escolha",
+      "pergunta": "Qual a ideia principal do texto base?",
+      "contexto_texto_ref": "Visão geral do texto base",
+      "opcoes": ["A educação afeta positivamente mais negros que brancos", "A idade afeta o nível educacional", "Uma boa educação pode ter efeitos positivos no envelhecimento, doenças mentais e lesão cerebral", "800 pacientes se recuperaram após a graduação"],
+      "resposta_correta": "Uma boa educação pode ter efeitos positivos no envelhecimento, doenças mentais e lesão cerebral",
+      "explicacao": "No PDF original, a Questão 10 (pág. 25) indica a resposta correta como 'A good education may have positive effects in aging, mental diseases and brain injury'."
+    },
+    {
+      "id": "ex_sib1_11",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "O estudo da Universidade da Califórnia em San Diego de 1988 mostrou que 10 dos 137 residentes permaneceram cognitivamente saudáveis e superaram indivíduos saudáveis nos testes. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 3 do texto base",
+      "resposta_correta": true,
+      "explicacao": "'While 10 of these people remained cognitively healthy and outperformed healthy individuals on the tests'."
+    },
+    {
+      "id": "ex_sib1_12",
+      "tipo": "pergunta_resposta",
+      "pergunta": "No parágrafo 3 do texto base, a quem se refere o pronome 'their' na frase 'examination revealed in their brains pathological changes associated with Alzheimer's'?",
+      "contexto_texto_ref": "Parágrafo 3 do texto base",
+      "respostas_aceitas": ["10 of these people", "10 dessas pessoas"],
+      "explicacao": "No PDF original, a Questão 7 (pág. 23) indica que 'their' se refere a '10 of these people'."
+    },
+    {
+      "id": "ex_sib1_13",
+      "tipo": "multipla_escolha",
+      "pergunta": "Qual a melhor tradução para 'Attainment' de acordo com o glossário do texto base?",
+      "contexto_texto_ref": "Glossário do texto base",
+      "opcoes": ["Realização", "Objetivo", "Conquista", "Nível"],
+      "resposta_correta": "Conquista",
+      "explicacao": "O glossário define 'Attainment' como 'achievement'."
+    },
+    {
+      "id": "ex_sib1_14",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Pessoas que se formam no ensino médio tendem a ganhar menos e ter menos escolhas na vida. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 1 do texto base",
+      "resposta_correta": false,
+      "explicacao": "O texto diz que elas 'tend to earn more, and generally have more choices and a better quality of life'."
+    },
+    {
+      "id": "ex_sib1_15",
+      "tipo": "pergunta_resposta",
+      "pergunta": "Qual a tradução para 'To strengthen' de acordo com o glossário do texto base?",
+      "contexto_texto_ref": "Glossário do texto base",
+      "respostas_aceitas": ["fortalecer", "fortify"],
+      "explicacao": "O glossário define 'To strengthen' como 'to fortify'."
+    },
+    {
+      "id": "ex_sib1_16",
+      "tipo": "multipla_escolha",
+      "pergunta": "A frase 'For the health of your brain, education is more relevant than socioeconomic status' é a mais próxima em significado de qual alternativa?",
+      "contexto_texto_ref": "Parágrafo 2 do texto base",
+      "opcoes": ["Socioeconomic status é o fator mais importante", "Educação é mais relevante para a saúde cerebral", "Estudos anteriores são mais independentes", "Há confusão nos estudos"],
+      "resposta_correta": "Educação é mais relevante para a saúde cerebral",
+      "explicacao": "No PDF original, a Questão 4 (pág. 21) indica a resposta correta como 'For the health of your brain, education is more relevant than socioeconomic status'."
+    },
+    {
+      "id": "ex_sib1_17",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A ideia de que algumas pessoas podem funcionar normalmente apesar da patologia cerebral é explicada pelo conceito de 'cognitive reserve'. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 2 do texto base",
+      "resposta_correta": true,
+      "explicacao": "'Many researchers explain findings such as these in terms of cognitive reserve, a concept that stems from observations that some people can continue to function normally despite brain pathology'."
+    },
+    {
+      "id": "ex_sib1_18",
+      "tipo": "pergunta_resposta",
+      "pergunta": "Qual a tradução para 'Outcomes' de acordo com o glossário do texto base?",
+      "contexto_texto_ref": "Glossário do texto base",
+      "respostas_aceitas": ["resultados"],
+      "explicacao": "O glossário define 'Outcomes' como 'results'."
+    },
+    {
+      "id": "ex_sib1_19",
+      "tipo": "multipla_escolha",
+      "pergunta": "A palavra 'outperformed' (superou) no texto base pode ser substituída por qual alternativa?",
+      "contexto_texto_ref": "Parágrafo 3 do texto base",
+      "opcoes": ["Affected", "Understood", "Were better than", "Reduced"],
+      "resposta_correta": "Were better than",
+      "explicacao": "No PDF original, a Questão 8 (pág. 23) indica que 'outperformed' pode ser substituída por 'Were better than'."
+    },
+    {
+      "id": "ex_sib1_20",
+      "tipo": "multipla_escolha",
+      "pergunta": "Qual das seguintes afirmações é correta, segundo o texto base?",
+      "contexto_texto_ref": "Parágrafo 2 do texto base",
+      "opcoes": ["Pessoas com mais educação tendem a se recuperar melhor de lesão cerebral traumática.", "Atividades físicas reduzem o Alzheimer.", "Doenças neurodegenerativas precisam de médicos de alto nível.", "Pessoas intelecutalmente ativas têm mais TBI."],
+      "resposta_correta": "Pessoas com mais educação tendem a se recuperar melhor de lesão cerebral traumática.",
+      "explicacao": "No PDF original, a Questão 1 (pág. 20) indica a resposta correta como 'People with more education tend to recover better from traumatic brain injury'."
+    }
+  ],
+  "exercicios_fixacao": [
+    {
+      "id": "fix_sib1_1",
+      "tipo": "multipla_escolha",
+      "pergunta": "Revisando o módulo, qual o conceito que explica por que algumas pessoas continuam a funcionar normalmente apesar da patologia cerebral?",
+      "contexto_texto_ref": "Parágrafo 2 do texto base",
+      "opcoes": ["Deterioração cognitiva", "Reserva cognitiva", "Plasticidade cerebral", "Adaptação mental"],
+      "resposta_correta": "Reserva cognitiva",
+      "explicacao": "O conceito é 'cognitive reserve'."
+    },
+    {
+      "id": "fix_sib1_2",
+      "tipo": "pergunta_resposta",
+      "pergunta": "Qual o principal fator mais significativo para a saúde cerebral, superando o status socioeconômico, de acordo com pesquisas recentes?",
+      "contexto_texto_ref": "Parágrafo 2 do texto base",
+      "respostas_aceitas": ["educação", "level of education"],
+      "explicacao": "'education is by far the more significant factor in brain health'."
+    },
+    {
+      "id": "fix_sib1_3",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Os benefícios da educação são ainda maiores para quem termina a faculdade do que para quem termina apenas o ensino médio. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 1 do texto base",
+      "resposta_correta": true,
+      "explicacao": "'for those who finish college, the benefits are even bigger'."
+    }
+  ],
+  "desafios": {
+    "facil": {
+      "id": "des_sib1_facil",
+      "tempo_limite_segundos": 60,
+      "palavras": [
+        {"ingles": "benefits", "portugues": "benefícios", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "earn", "portugues": "ganhar (dinheiro)", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "ravages", "portugues": "devastações", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "mitigating", "portugues": "mitigando", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "attainment", "portugues": "conquista / realização", "contexto_ref": "Glossário do texto base"},
+        {"ingles": "decline", "portugues": "declínio", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "confounded", "portugues": "confundiu", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "recover", "portugues": "recuperar", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "stems from", "portugues": "deriva de", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "pathology", "portugues": "patologia", "contexto_ref": "Parágrafo 2 do texto base"}
+      ]
+    },
+    "medio": {
+      "id": "des_sib1_medio",
+      "tempo_limite_segundos": 45,
+      "palavras": [
+        {"ingles": "socioeconomic status", "portugues": "status socioeconômico", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "predict", "portugues": "prever", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "extent", "portugues": "extensão", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "disability", "portugues": "deficiência", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "reserve", "portugues": "reserva", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "nursing home", "portugues": "casa de repouso", "contexto_ref": "Parágrafo 3 do texto base"},
+        {"ingles": "undergone", "portugues": "submetido a", "contexto_ref": "Parágrafo 3 do texto base"},
+        {"ingles": "outperformed", "portugues": "superou", "contexto_ref": "Parágrafo 3 do texto base"},
+        {"ingles": "revealed", "portugues": "revelou", "contexto_ref": "Parágrafo 3 do texto base"},
+        {"ingles": "hypothesize", "portugues": "hipotetizar", "contexto_ref": "Parágrafo 3 do texto base"}
+      ]
+    },
+    "dificil": {
+      "id": "des_sib1_dificil",
+      "tempo_limite_segundos": 30,
+      "palavras": [
+        {"ingles": "dementia", "portugues": "demência", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "Alzheimer's disease", "portugues": "doença de Alzheimer", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "cognitive decline", "portugues": "declínio cognitivo", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "confounded", "portugues": "confundiu", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "traumatic brain injury (TBI)", "portugues": "lesão cerebral traumática (LCT)", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "neuropsychological testing", "portugues": "testagem neuropsicológica", "contexto_ref": "Parágrafo 3 do texto base"},
+        {"ingles": "post-mortem", "portugues": "pós-morte", "contexto_ref": "Parágrafo 3 do texto base"},
+        {"ingles": "pathological changes", "portugues": "alterações patológicas", "contexto_ref": "Parágrafo 3 do texto base"},
+        {"ingles": "demented", "portugues": "com demência", "contexto_ref": "Parágrafo 3 do texto base"},
+        {"ingles": "extra brain cells", "portugues": "células cerebrais extras", "contexto_ref": "Parágrafo 3 do texto base"}
+      ]
+    }
+  }
+}

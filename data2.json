@@ -1,0 +1,258 @@
+{
+  "id": "meio_ambiente_basico_1",
+  "titulo": "Meio Ambiente: Qualidade da Água e Poluição",
+  "descricao": "Este módulo explora vocabulário e conceitos sobre a importância da água, poluição hídrica e escassez, com base em um texto acadêmico sobre recursos hídricos na Europa.",
+  "texto_base": "1 Water is critical for life and is integral to virtually all economic activities, including food production and industry. Not only is clean water a prerequisite for human health and well-being, it provides aquatic habitats that support healthy freshwater ecosystems. European policymakers have introduced a comprehensive range of legislation to protect our freshwater resources. Most notable is the Water Framework Directive (WFD), and the general objective of the WFD is to achieve 'good status' (both ecological and chemical status) for all surface waters in the future. Worryingly, poor water quality, water scarcity and physical modifications might prevent a substantial proportion of European water bodies from achieving 'good status' in the next few years.\n\n2- Pollution from agriculture remains a major cause of poor water quality in many parts of Europe. Nutrients (nitrogen and phosphorus) from fertilizers, pesticides, pathogenic micro-organisms excreted by livestock, and organic pollutants from manure are washed to waterways, primarily via diffuse pathways. The urban environment is another key contributor to the freshwater pollution observed across Europe. Several pollutants are generated in the wider urban environment, including industrial and household chemicals, metals, pharmaceutical products, nutrients, pesticides and pathogenic micro-organisms.\n\n3- Excessive nutrient levels in water bodies cause proliferation of algal and result in widespread loss of aquatic life. Moreover, chemicals with endocrine-disrupting properties have been shown to trigger feminizing effects in male river fishes, potentially affecting their fertility. Pesticides and metals can be toxic to aquatic life, while concern is growing about the effects of chemical mixtures found in Europe's more polluted waters. Much of the pollutant load in freshwaters is ultimately discharged to coastal waters with the potential to impact the marine environment.\n\n4- Water scarcity occurs in many areas of Europe, particularly in the south where limited water resources combine with high demand. Over-abstraction and dry periods frequently result in reduced river flows, lower lake and groundwater levels and the drying-up of wetlands, with detrimental impacts on freshwater ecosystems. Excessive abstraction from any one of these types of water body can impact one or more of the others. For example, rivers, lakes and wetlands: they may all be strongly dependent on groundwater, especially in the summer, when it is warmer than usual. Over the past 150 years, Europe's freshwaters have been affected by a variety of major modifications. Dams and canals have reduced connectivity, rivers have been modified and canalized, and infrastructure development has disconnected watercourses from floodplains.\n\nGlossary\nManure: animal excretions\nLoad: quantity\nScarcity: insufficiency\nWetlands: swamps; areas with a mixture of water and land\nDam: a barrier built to control the flow of water (i.e.: itaipu Dam)",
+  "niveis_desafio_pontuacao": {
+    "facil": "70-80% de acertos",
+    "medio": "80-90% de acertos",
+    "dificil": "90-100% de acertos"
+  },
+  "exercicios": [
+    {
+      "id": "ex_mab1_1",
+      "tipo": "multipla_escolha",
+      "pergunta": "De acordo com o texto base, qual é a principal causa da má qualidade da água em muitas partes da Europa, relacionada à agricultura?",
+      "contexto_texto_ref": "Parágrafo 2 do texto base",
+      "opcoes": ["Uso excessivo de água", "Poluição de esgoto doméstico", "Nutrientes (nitrogênio e fósforo) de fertilizantes e pesticidas", "Modificações físicas em rios"],
+      "resposta_correta": "Nutrientes (nitrogênio e fósforo) de fertilizantes e pesticidas",
+      "explicacao": "O texto afirma: 'Pollution from agriculture remains a major cause of poor water quality in many parts of Europe. Nutrients (nitrogen and phosphorus) from fertilizers, pesticides... are washed to waterways'."
+    },
+    {
+      "id": "ex_mab1_2",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "O objetivo geral da Water Framework Directive (WFD) é alcançar um 'bom status' (ecológico e químico) para todas as águas superficiais no futuro. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 1 do texto base",
+      "resposta_correta": true,
+      "explicacao": "O texto declara: 'the general objective of the WFD is to achieve 'good status' (both ecological and chemical status) for all surface waters in the future'."
+    },
+    {
+      "id": "ex_mab1_3",
+      "tipo": "pergunta_resposta",
+      "pergunta": "Quais são os três fatores que, segundo o texto base, podem impedir uma proporção substancial de corpos d'água europeus de atingir um 'bom status' nos próximos anos?",
+      "contexto_texto_ref": "Parágrafo 1 do texto base",
+      "respostas_aceitas": ["má qualidade da água, escassez de água e modificações físicas", "poor water quality, water scarcity and physical modifications"],
+      "explicacao": "'Worryingly, poor water quality, water scarcity and physical modifications might prevent a substantial proportion of European water bodies from achieving 'good status' in the next few years'."
+    },
+    {
+      "id": "ex_mab1_4",
+      "tipo": "multipla_escolha",
+      "pergunta": "Qual o significado da palavra 'range' no contexto da frase 'European policymakers have introduced a comprehensive range of legislation'?",
+      "contexto_texto_ref": "Parágrafo 1 do texto base",
+      "opcoes": ["Quantidade", "Redução", "Dúvida", "Especialidade"],
+      "resposta_correta": "Quantidade",
+      "explicacao": "No PDF original, a Questão 2 (pág. 8) indica que 'range' é mais próxima em significado a 'Amount'."
+    },
+    {
+      "id": "ex_mab1_5",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "O ambiente urbano é considerado um contribuinte insignificante para a poluição da água doce na Europa. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 2 do texto base",
+      "resposta_correta": false,
+      "explicacao": "O texto diz que 'The urban environment is another key contributor to the freshwater pollution observed across Europe'."
+    },
+    {
+      "id": "ex_mab1_6",
+      "tipo": "pergunta_resposta",
+      "pergunta": "O que o texto base afirma que o 'excessive nutrient levels' (níveis excessivos de nutrientes) em corpos d'água causam?",
+      "contexto_texto_ref": "Parágrafo 3 do texto base",
+      "respostas_aceitas": ["proliferação de algas e perda generalizada de vida aquática", "proliferation of algal and widespread loss of aquatic life"],
+      "explicacao": "'Excessive nutrient levels in water bodies cause proliferation of algal and result in widespread loss of aquatic life'."
+    },
+    {
+      "id": "ex_mab1_7",
+      "tipo": "multipla_escolha",
+      "pergunta": "Qual a substância que, segundo o texto base, 'trigger' (desencadeia) efeitos feminilizantes em peixes machos de rio?",
+      "contexto_texto_ref": "Parágrafo 3 do texto base",
+      "opcoes": ["Pesticidas", "Metais", "Nutrientes", "Químicos com propriedades desreguladoras endócrinas"],
+      "resposta_correta": "Químicos com propriedades desreguladoras endócrinas",
+      "explicacao": "'chemicals with endocrine-disrupting properties have been shown to trigger feminizing effects in male river fishes'."
+    },
+    {
+      "id": "ex_mab1_8",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A escassez de água ('water scarcity') é um problema que ocorre apenas no sul da Europa, onde os recursos hídricos são limitados e a demanda é alta. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 4 do texto base",
+      "resposta_correta": false,
+      "explicacao": "O texto diz 'Water scarcity occurs in many areas of Europe, particularly in the south', indicando que não é *apenas* lá, mas especialmente lá."
+    },
+    {
+      "id": "ex_mab1_9",
+      "tipo": "pergunta_resposta",
+      "pergunta": "O que a 'over-abstraction' (super-abstração) e os 'dry periods' (períodos de seca) frequentemente resultam, de acordo com o texto base?",
+      "contexto_texto_ref": "Parágrafo 4 do texto base",
+      "respostas_aceitas": ["fluxos de rio reduzidos, níveis mais baixos de lagos e águas subterrâneas e o ressecamento de zonas úmidas", "reduced river flows, lower lake and groundwater levels and the drying-up of wetlands"],
+      "explicacao": "'Over-abstraction and dry periods frequently result in reduced river flows, lower lake and groundwater levels and the drying-up of wetlands'."
+    },
+    {
+      "id": "ex_mab1_10",
+      "tipo": "multipla_escolha",
+      "pergunta": "O que o texto base afirma ter sido o principal impacto das 'major modifications' (grandes modificações) nas águas doces da Europa nos últimos 150 anos?",
+      "contexto_texto_ref": "Parágrafo 4 do texto base",
+      "opcoes": ["Aumento da poluição por nutrientes", "Melhora na qualidade da água", "Redução da conectividade dos rios, canalização e desconexão de várzeas", "Diminuição da demanda por água"],
+      "resposta_correta": "Redução da conectividade dos rios, canalização e desconexão de várzeas",
+      "explicacao": "'Dams and canals have reduced connectivity, rivers have been modified and canalized, and infrastructure development has disconnected watercourses from floodplains'."
+    },
+    {
+      "id": "ex_mab1_11",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Todo o excesso de poluentes na água doce é descarregado para as águas costeiras, sem potencial de impactar o ambiente marinho. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 3 do texto base",
+      "resposta_correta": false,
+      "explicacao": "'Much of the pollutant load in freshwaters is ultimately discharged to coastal waters with the potential to impact the marine environment'."
+    },
+    {
+      "id": "ex_mab1_12",
+      "tipo": "pergunta_resposta",
+      "pergunta": "No glossário do texto base, qual a tradução da palavra 'Manure'?",
+      "contexto_texto_ref": "Glossário do texto base",
+      "respostas_aceitas": ["excrementos de animais", "animal excretions"],
+      "explicacao": "O glossário define 'Manure' como 'animal excretions'."
+    },
+    {
+      "id": "ex_mab1_13",
+      "tipo": "multipla_escolha",
+      "pergunta": "Qual o significado da palavra 'scarcity' de acordo com o glossário do texto base?",
+      "contexto_texto_ref": "Glossário do texto base",
+      "opcoes": ["Abundância", "Excesso", "Insuficiência", "Variedade"],
+      "resposta_correta": "Insuficiência",
+      "explicacao": "O glossário define 'Scarcity' como 'insufficiency'."
+    },
+    {
+      "id": "ex_mab1_14",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Rios, lagos e zonas úmidas ('wetlands') podem depender fortemente da água subterrânea, especialmente no verão. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 4 do texto base",
+      "resposta_correta": true,
+      "explicacao": "'rivers, lakes and wetlands: they may all be strongly dependent on groundwater, especially in the summer'."
+    },
+    {
+      "id": "ex_mab1_15",
+      "tipo": "pergunta_resposta",
+      "pergunta": "O que significa a palavra 'Dam' de acordo com o glossário do texto base?",
+      "contexto_texto_ref": "Glossário do texto base",
+      "respostas_aceitas": ["barreira construída para controlar o fluxo de água", "a barrier built to control the flow of water"],
+      "explicacao": "O glossário define 'Dam' como 'a barrier built to control the flow of water'."
+    },
+    {
+      "id": "ex_mab1_16",
+      "tipo": "multipla_escolha",
+      "pergunta": "Qual a ideia principal do texto base?",
+      "contexto_texto_ref": "Visão geral do texto base",
+      "opcoes": ["Autoridades europeias estão preocupadas com ecossistemas aquáticos, afetados por problemas causados pela ação humana.", "Há muitos nutrientes na água", "Nossa sociedade usou muita água", "Rios, barragens e canais na Europa causaram problemas à agricultura"],
+      "resposta_correta": "Autoridades europeias estão preocupadas com ecossistemas aquáticos, afetados por problemas causados pela ação humana.",
+      "explicacao": "A ideia central do texto é sobre a preocupação das autoridades europeias com os problemas da água causados pela ação humana."
+    },
+    {
+      "id": "ex_mab1_17",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A poluição por agrotóxicos e medicamentos é gerada principalmente no ambiente rural e não no urbano. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 2 do texto base",
+      "resposta_correta": false,
+      "explicacao": "O texto diz que 'Several pollutants are generated in the wider urban environment, including industrial and household chemicals, metals, pharmaceutical products, nutrients, pesticides and pathogenic micro-organisms'."
+    },
+    {
+      "id": "ex_mab1_18",
+      "tipo": "pergunta_resposta",
+      "pergunta": "O que significa a palavra 'Load' no contexto de 'pollutant load'?",
+      "contexto_texto_ref": "Glossário do texto base",
+      "respostas_aceitas": ["quantidade", "quantity"],
+      "explicacao": "O glossário define 'Load' como 'quantity'."
+    },
+    {
+      "id": "ex_mab1_19",
+      "tipo": "multipla_escolha",
+      "pergunta": "No parágrafo 4 do texto base, a quem se refere o pronome 'they' na frase 'For example, rivers, lakes and wetlands: they may all be strongly dependent on groundwater'?",
+      "contexto_texto_ref": "Parágrafo 4 do texto base",
+      "opcoes": ["Freshwater ecosystems", "Types of water body", "Others", "Rios, lagos e zonas úmidas"],
+      "resposta_correta": "Rios, lagos e zonas úmidas",
+      "explicacao": "O pronome 'they' se refere a 'rivers, lakes and wetlands'."
+    },
+    {
+      "id": "ex_mab1_20",
+      "tipo": "multipla_escolha",
+      "pergunta": "Qual a tradução para a frase 'Many nocive elements that cause pollution originate in cities', de acordo com a própria Questão 4 do PDF (pág. 8)?",
+      "contexto_texto_ref": "Parágrafo 2 do texto base",
+      "opcoes": ["A expansão das cidades deve parar", "Muitos elementos nocivos que causam poluição se originam nas cidades", "Indústrias químicas não devem ficar perto de ambientes urbanos", "Pesticidas estão poluindo o ambiente urbano"],
+      "resposta_correta": "Muitos elementos nocivos que causam poluição se originam nas cidades",
+      "explicacao": "A Questão 4 do PDF (pág. 8) pede a alternativa mais próxima em significado, e a correta é 'Many nocive elements that cause pollution originate in cities'."
+    }
+  ],
+  "exercicios_fixacao": [
+    {
+      "id": "fix_mab1_1",
+      "tipo": "multipla_escolha",
+      "pergunta": "Revisando o módulo, a palavra 'trigger' no texto base é mais próxima em significado de qual das alternativas?",
+      "contexto_texto_ref": "Parágrafo 3 do texto base",
+      "opcoes": ["Initiate", "Test", "Transform", "Stop"],
+      "resposta_correta": "Initiate",
+      "explicacao": "A Questão 5 do PDF (pág. 9) indica que 'trigger' é mais próxima em significado a 'Initiate'."
+    },
+    {
+      "id": "fix_mab1_2",
+      "tipo": "pergunta_resposta",
+      "pergunta": "O texto base menciona que a poluição de nutrientes ('nutrients') pode causar qual fenômeno que leva à perda de vida aquática?",
+      "contexto_texto_ref": "Parágrafo 3 do texto base",
+      "respostas_aceitas": ["proliferação de algas", "algal proliferation"],
+      "explicacao": "'Excessive nutrient levels in water bodies cause proliferation of algal and widespread loss of aquatic life'."
+    },
+    {
+      "id": "fix_mab1_3",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A água é crítica para a vida e é parte integrante de virtualmente todas as atividades econômicas. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 1 do texto base",
+      "resposta_correta": true,
+      "explicacao": "'Water is critical for life and is integral to virtually all economic activities'."
+    }
+  ],
+  "desafios": {
+    "facil": {
+      "id": "des_mab1_facil",
+      "tempo_limite_segundos": 60,
+      "palavras": [
+        {"ingles": "critical", "portugues": "crítico", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "prerequisite", "portugues": "pré-requisito", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "aquatic habitats", "portugues": "habitat aquático", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "legislation", "portugues": "legislação", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "worryingly", "portugues": "preocupantemente", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "scarcity", "portugues": "escassez", "contexto_ref": "Glossário do texto base"},
+        {"ingles": "manure", "portugues": "esterco", "contexto_ref": "Glossário do texto base"},
+        {"ingles": "load", "portugues": "quantidade / carga", "contexto_ref": "Glossário do texto base"},
+        {"ingles": "wetlands", "portugues": "pântanos / zonas úmidas", "contexto_ref": "Glossário do texto base"},
+        {"ingles": "dam", "portugues": "barragem", "contexto_ref": "Glossário do texto base"}
+      ]
+    },
+    "medio": {
+      "id": "des_mab1_medio",
+      "tempo_limite_segundos": 45,
+      "palavras": [
+        {"ingles": "integral", "portugues": "parte integrante", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "policymakers", "portugues": "legisladores / formuladores de políticas", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "proportion", "portugues": "proporção", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "diffuse pathways", "portugues": "caminhos difusos", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "contributor", "portugues": "contribuinte", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "excessive", "portugues": "excessivo", "contexto_ref": "Parágrafo 3 do texto base"},
+        {"ingles": "proliferation", "portugues": "proliferação", "contexto_ref": "Parágrafo 3 do texto base"},
+        {"ingles": "discharged", "portugues": "descarregado", "contexto_ref": "Parágrafo 3 do texto base"},
+        {"ingles": "detrimental", "portugues": "prejudicial", "contexto_ref": "Parágrafo 4 do texto base"},
+        {"ingles": "connectivity", "portugues": "conectividade", "contexto_ref": "Parágrafo 4 do texto base"}
+      ]
+    },
+    "dificil": {
+      "id": "des_mab1_dificil",
+      "tempo_limite_segundos": 30,
+      "palavras": [
+        {"ingles": "ecological status", "portugues": "status ecológico", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "pathogenic micro-organisms", "portugues": "microrganismos patogênicos", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "endocrine-disrupting properties", "portugues": "propriedades desreguladoras endócrinas", "contexto_ref": "Parágrafo 3 do texto base"},
+        {"ingles": "feminizing effects", "portugues": "efeitos feminilizantes", "contexto_ref": "Parágrafo 3 do texto base"},
+        {"ingles": "over-abstraction", "portugues": "super-abstração", "contexto_ref": "Parágrafo 4 do texto base"},
+        {"ingles": "groundwater levels", "portugues": "níveis de água subterrânea", "contexto_ref": "Parágrafo 4 do texto base"},
+        {"ingles": "canalized", "portugues": "canalizado", "contexto_ref": "Parágrafo 4 do texto base"},
+        {"ingles": "infrastructure development", "portugues": "desenvolvimento de infraestrutura", "contexto_ref": "Parágrafo 4 do texto base"},
+        {"ingles": "watercourses", "portugues": "cursos d'água", "contexto_ref": "Parágrafo 4 do texto base"},
+        {"ingles": "floodplains", "portugues": "várzeas", "contexto_ref": "Parágrafo 4 do texto base"}
+      ]
+    }
+  }
+}

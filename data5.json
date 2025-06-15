@@ -1,0 +1,258 @@
+{
+  "id": "saude_interm_2",
+  "titulo": "Saúde: Produtos Antibacterianos e Resistência",
+  "descricao": "Este módulo explora a crescente popularidade de produtos antibacterianos, seus mecanismos de ação e o risco do desenvolvimento de resistência bacteriana, com base em um texto sobre microbiologia.",
+  "texto_base": "1-Tuberculosis, food poisoning, cholera, pneumonia, strep throat and meningitis: these are just a few of the unsavory diseases caused by bacteria. Keeping both home and body clean-is one of the best ways to curb the spread of bacterial infections, but lately consumers are getting the message that washing with regular soap is insufficient. Antibacterial products have never been so popular. Body soaps, household cleaners, sponges, even mattresses and lip glosses are now packing bacteria-killing ingredients, and scientists question what place, if any, these chemicals have in the daily routines of healthy people.\n\n2- Traditionally, people washed bacteria from their bodies and homes using soap and hot water, alcohol, chlorine bleach or hydrogen peroxide. These substances act nonspecifically, meaning they wipe out almost every type of microbe in sight-fungi, bacteria and some viruses-rather than singling out a particular variety. Soap works by loosening dirt, oil and microbes from surfaces so they can be easily rinsed away with water, whereas general cleaners such as alcohol inflict sweeping damage to cells by demolishing key structures, then evaporate. \"They do their job and are quickly dissipated into the environment,\" explains microbiologist Stuart Levy of Tufts University School of Medicine.\n\n3 Unlike these traditional cleaners, antibacterial products leave surface residues, creating conditions that may foster the development of resistant bacteria. For example, after spraying and wiping an antibacterial cleaner over a kitchen counter, active chemicals linger behind and continue to kill bacteria, but not necessarily all of them. When a bacterial population is placed under a stressor-such as an antibacterial chemical-a small subpopulation armed with special and reinforced defense mechanisms can develop. These lineages survive and reproduce as their weaker relatives perish. \"What doesn't kill you makes you stronger\" is the governing maxim here, as antibacterial chemicals select for bacteria that endure their presence.\n\n4- As bacteria develop a tolerance for these compounds there is potential for also developing a tolerance for certain antibiotics. This phenomenon, called cross-resistance, has already been demonstrated in several laboratory studies using triclosan, one of the most common chemicals found in antibacterial hand cleaners, dishwashing liquids and other wash products. \"Triclosan has a specific inhibitory target in bacteria similar to some antibiotics,\" says epidemiologist Allison Aiello at the University of Michigan School of Public Health. When bacteria are exposed to Triclosan for long periods of time, genetic mutations can arise.\n\nGLOSSARY\nUnsavory: unpleasant\nTo wipe out: eradicate\nTo single out: to separate from others\nTo linger: to stay",
+  "niveis_desafio_pontuacao": {
+    "facil": "70-80% de acertos",
+    "medio": "80-90% de acertos",
+    "dificil": "90-100% de acertos"
+  },
+  "exercicios": [
+    {
+      "id": "ex_sib2_1",
+      "tipo": "multipla_escolha",
+      "pergunta": "De acordo com o texto base, qual é uma das melhores maneiras de 'curb the spread' (conter a propagação) de infecções bacterianas?",
+      "contexto_texto_ref": "Parágrafo 1 do texto base",
+      "opcoes": ["Usar apenas produtos antibacterianos", "Manter a casa e o corpo limpos", "Evitar o contato com pessoas doentes", "Tomar antibióticos regularmente"],
+      "resposta_correta": "Manter a casa e o corpo limpos",
+      "explicacao": "O texto afirma: 'Keeping both home and body clean-is one of the best ways to curb the spread of bacterial infections'."
+    },
+    {
+      "id": "ex_sib2_2",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Atualmente, os consumidores estão sendo convencidos de que lavar com sabonete comum é suficiente para a limpeza. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 1 do texto base",
+      "resposta_correta": false,
+      "explicacao": "O texto diz: 'lately consumers are getting the message that washing with regular soap is insufficient'."
+    },
+    {
+      "id": "ex_sib2_3",
+      "tipo": "pergunta_resposta",
+      "pergunta": "No glossário do texto base, qual o significado da palavra 'curb'?",
+      "contexto_texto_ref": "Glossário do texto base",
+      "respostas_aceitas": ["impedir", "conter"],
+      "explicacao": "No PDF original, a Questão 2 (pág. 27) indica que 'curb' é mais próxima em significado a 'Impede'."
+    },
+    {
+      "id": "ex_sib2_4",
+      "tipo": "multipla_escolha",
+      "pergunta": "Como o sabão tradicional (regular soap) age para limpar sujeira, óleo e micróbios das superfícies, de acordo com o texto base?",
+      "contexto_texto_ref": "Parágrafo 2 do texto base",
+      "opcoes": ["Demolindo estruturas celulares", "Evaporando rapidamente", "Soltando-os para que possam ser enxaguados", "Agindo de forma não específica"],
+      "resposta_correta": "Soltando-os para que possam ser enxaguados",
+      "explicacao": "'Soap works by loosening dirt, oil and microbes from surfaces so they can be easily rinsed away with water'."
+    },
+    {
+      "id": "ex_sib2_5",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Limpeza tradicional com substâncias como álcool ou alvejante de cloro age de forma 'nonspecifically', eliminando quase todos os tipos de micróbios. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 2 do texto base",
+      "resposta_correta": true,
+      "explicacao": "'These substances act nonspecifically, meaning they wipe out almost every type of microbe in sight'."
+    },
+    {
+      "id": "ex_sib2_6",
+      "tipo": "pergunta_resposta",
+      "pergunta": "No glossário do texto base, qual o significado de 'wipe out'?",
+      "contexto_texto_ref": "Glossário do texto base",
+      "respostas_aceitas": ["erradicar", "eliminar"],
+      "explicacao": "O glossário define 'To wipe out' como 'eradicate'."
+    },
+    {
+      "id": "ex_sib2_7",
+      "tipo": "multipla_escolha",
+      "pergunta": "Qual a principal desvantagem dos produtos antibacterianos em comparação com os limpadores tradicionais, de acordo com o texto base?",
+      "contexto_texto_ref": "Parágrafo 3 do texto base",
+      "opcoes": ["Eles evaporam muito rápido", "Eles não matam todos os micróbios", "Eles deixam resíduos na superfície que podem 'foster the development' de bactérias resistentes", "Eles são muito caros"],
+      "resposta_correta": "Eles deixam resíduos na superfície que podem 'foster the development' de bactérias resistentes",
+      "explicacao": "'Unlike these traditional cleaners, antibacterial products leave surface residues, creating conditions that may foster the development of resistant bacteria'."
+    },
+    {
+      "id": "ex_sib2_8",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A afirmação 'What doesn't kill you makes you stronger' (O que não te mata te torna mais forte) é usada no texto base para descrever como as bactérias desenvolvem resistência. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 3 do texto base",
+      "resposta_correta": true,
+      "explicacao": "'What doesn't kill you makes you stronger' is the governing maxim here, as antibacterial chemicals select for bacteria that endure their presence'."
+    },
+    {
+      "id": "ex_sib2_9",
+      "tipo": "pergunta_resposta",
+      "pergunta": "Qual o nome do fenômeno em que as bactérias desenvolvem tolerância a certos antibióticos devido à tolerância a compostos antibacterianos, segundo o texto base?",
+      "contexto_texto_ref": "Parágrafo 4 do texto base",
+      "respostas_aceitas": ["cross-resistance", "resistência cruzada"],
+      "explicacao": "'This phenomenon, called cross-resistance, has already been demonstrated'."
+    },
+    {
+      "id": "ex_sib2_10",
+      "tipo": "multipla_escolha",
+      "pergunta": "No glossário do texto base, qual o significado da palavra 'rinsed'?",
+      "contexto_texto_ref": "Glossário do texto base",
+      "opcoes": ["Reagido", "Fixado", "Lavado", "Adaptado"],
+      "resposta_correta": "Lavado",
+      "explicacao": "No PDF original, a Questão 4 (pág. 28) indica que 'rinsed' é mais próxima em significado a 'Washed'."
+    },
+    {
+      "id": "ex_sib2_11",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Triclosan é um dos químicos menos comuns encontrados em limpadores de mãos antibacterianos, segundo o texto base. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 4 do texto base",
+      "resposta_correta": false,
+      "explicacao": "'triclosan, one of the most common chemicals found in antibacterial hand cleaners'."
+    },
+    {
+      "id": "ex_sib2_12",
+      "tipo": "pergunta_resposta",
+      "pergunta": "De acordo com o texto base, o que pode surgir quando bactérias são expostas ao Triclosan por longos períodos de tempo?",
+      "contexto_texto_ref": "Parágrafo 4 do texto base",
+      "respostas_aceitas": ["mutações genéticas", "genetic mutations"],
+      "explicacao": "'When bacteria are exposed to Triclosan for long periods of time, genetic mutations can arise'."
+    },
+    {
+      "id": "ex_sib2_13",
+      "tipo": "multipla_escolha",
+      "pergunta": "Qual a ideia principal do texto base?",
+      "contexto_texto_ref": "Visão geral do texto base",
+      "opcoes": ["Cientistas acreditam que produtos de limpeza são eficazes", "Produtos de limpeza tradicionais não são eficazes", "Produtos antibacterianos podem promover o desenvolvimento de resistência bacteriana", "Cientistas estão tentando criar novos produtos"],
+      "resposta_correta": "Produtos antibacterianos podem promover o desenvolvimento de resistência bacteriana",
+      "explicacao": "A ideia central do texto é sobre como produtos antibacterianos podem promover resistência bacteriana."
+    },
+    {
+      "id": "ex_sib2_14",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "O texto base sugere que os cientistas questionam se os produtos antibacterianos têm lugar nas rotinas diárias de pessoas saudáveis. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 1 do texto base",
+      "resposta_correta": true,
+      "explicacao": "'scientists question what place, if any, these chemicals have in the daily routines of healthy people'."
+    },
+    {
+      "id": "ex_sib2_15",
+      "tipo": "pergunta_resposta",
+      "pergunta": "Qual a tradução para a frase 'They disappear fast after doing what they have to do', de acordo com a própria Questão 6 do PDF (pág. 29)?",
+      "contexto_texto_ref": "Parágrafo 2 do texto base",
+      "respostas_aceitas": ["Eles desaparecem rápido depois de fazer o que têm que fazer"],
+      "explicacao": "A Questão 6 do PDF (pág. 29) pede a alternativa mais próxima em significado, e a correta é 'They disappear fast after doing what they have to do'."
+    },
+    {
+      "id": "ex_sib2_16",
+      "tipo": "multipla_escolha",
+      "pergunta": "No parágrafo 3 do texto base, a quem se refere o pronome 'them' na frase 'active chemicals linger behind and continue to kill bacteria, but not necessarily all of them'?",
+      "contexto_texto_ref": "Parágrafo 3 do texto base",
+      "opcoes": ["Antibacterial cleaner", "Kitchen counter", "Active chemicals", "Bacteria"],
+      "resposta_correta": "Bacteria",
+      "explicacao": "O pronome 'them' se refere a 'bacteria'."
+    },
+    {
+      "id": "ex_sib2_17",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A exposição a certos compostos pode desenvolver resistência cruzada em bactérias, segundo o texto base. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 4 do texto base",
+      "resposta_correta": true,
+      "explicacao": "A Questão 9 do PDF (pág. 31) pergunta qual afirmação é correta, e a resposta é 'Exposure to certain compounds may develop cross-resistance in bacteria'."
+    },
+    {
+      "id": "ex_sib2_18",
+      "tipo": "pergunta_resposta",
+      "pergunta": "No glossário do texto base, qual a tradução para 'Unsavory'?",
+      "contexto_texto_ref": "Glossário do texto base",
+      "respostas_aceitas": ["desagradável", "unpleasant"],
+      "explicacao": "O glossário define 'Unsavory' como 'unpleasant'."
+    },
+    {
+      "id": "ex_sib2_19",
+      "tipo": "multipla_escolha",
+      "pergunta": "No parágrafo 2 do texto base, a quem se refere o pronome 'they' na frase 'These substances act nonspecifically, meaning they wipe out almost every type of microbe in sight'?",
+      "contexto_texto_ref": "Parágrafo 2 do texto base",
+      "opcoes": ["Fungi, bacteria and some viruses", "A particular variety", "Soap", "Dirt, oil and microbes"],
+      "resposta_correta": "Dirt, oil and microbes",
+      "explicacao": "No PDF original, a Questão 5 (pág. 29) indica que 'they' se refere a 'Dirt, oil and microbes'."
+    },
+    {
+      "id": "ex_sib2_20",
+      "tipo": "multipla_escolha",
+      "pergunta": "Qual a alternativa correta, de acordo com o texto base?",
+      "contexto_texto_ref": "Parágrafo 1 do texto base",
+      "opcoes": ["Pessoas estão sendo convencidas de que produtos de limpeza tradicionais não são bons o suficiente.", "Antibióticos matam todas as bactérias.", "Produtos de limpeza tradicionais causam infecções.", "Produtos antibacterianos dissipam no ar."],
+      "resposta_correta": "Pessoas estão sendo convencidas de que produtos de limpeza tradicionais não são bons o suficiente.",
+      "explicacao": "No PDF original, a Questão 1 (pág. 27) indica a resposta correta como 'People are being convinced that traditional cleaning products are not good enough anymore'."
+    }
+  ],
+  "exercicios_fixacao": [
+    {
+      "id": "fix_sib2_1",
+      "tipo": "multipla_escolha",
+      "pergunta": "Revisando o módulo, qual a principal ideia que governa o desenvolvimento de bactérias resistentes a produtos antibacterianos?",
+      "contexto_texto_ref": "Parágrafo 3 do texto base",
+      "opcoes": ["Apenas o que mata a bactéria a torna mais forte", "O que não mata a bactéria a torna mais forte", "Bactérias se adaptam apenas a antibióticos", "Limpadores tradicionais não causam resistência"],
+      "resposta_correta": "O que não mata a bactéria a torna mais forte",
+      "explicacao": "'What doesn't kill you makes you stronger' is the governing maxim here."
+    },
+    {
+      "id": "fix_sib2_2",
+      "tipo": "pergunta_resposta",
+      "pergunta": "Qual o nome do fenômeno que descreve a tolerância das bactérias a certos antibióticos após desenvolverem tolerância a compostos antibacterianos?",
+      "contexto_texto_ref": "Parágrafo 4 do texto base",
+      "respostas_aceitas": ["cross-resistance", "resistência cruzada"],
+      "explicacao": "Este fenômeno é chamado 'cross-resistance'."
+    },
+    {
+      "id": "fix_sib2_3",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Cientistas não têm questionado a necessidade de produtos antibacterianos nas rotinas diárias de pessoas saudáveis. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 1 do texto base",
+      "resposta_correta": false,
+      "explicacao": "O texto afirma que 'scientists question what place, if any, these chemicals have in the daily routines of healthy people'."
+    }
+  ],
+  "desafios": {
+    "facil": {
+      "id": "des_sib2_facil",
+      "tempo_limite_segundos": 60,
+      "palavras": [
+        {"ingles": "unsavory", "portugues": "desagradável", "contexto_ref": "Glossário do texto base"},
+        {"ingles": "curb", "portugues": "conter / impedir", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "insufficient", "portugues": "insuficiente", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "popular", "portugues": "popular", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "traditionally", "portugues": "tradicionalmente", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "wipe out", "portugues": "erradicar / eliminar", "contexto_ref": "Glossário do texto base"},
+        {"ingles": "singling out", "portugues": "selecionando / individualizando", "contexto_ref": "Glossário do texto base"},
+        {"ingles": "loosing", "portugues": "soltando", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "rinsed", "portugues": "enxaguado", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "dissipated", "portugues": "dissipado", "contexto_ref": "Parágrafo 2 do texto base"}
+      ]
+    },
+    "medio": {
+      "id": "des_sib2_medio",
+      "tempo_limite_segundos": 45,
+      "palavras": [
+        {"ingles": "nonspecifically", "portugues": "não especificamente", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "demolishing", "portugues": "demolindo", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "evaporate", "portugues": "evaporar", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "linger", "portugues": "permanecer / demorar", "contexto_ref": "Glossário do texto base"},
+        {"ingles": "foster", "portugues": "promover / incentivar", "contexto_ref": "Parágrafo 3 do texto base"},
+        {"ingles": "residues", "portugues": "resíduos", "contexto_ref": "Parágrafo 3 do texto base"},
+        {"ingles": "stressor", "portugues": "estressor", "contexto_ref": "Parágrafo 3 do texto base"},
+        {"ingles": "lineages", "portugues": "linhagens", "contexto_ref": "Parágrafo 3 do texto base"},
+        {"ingles": "perish", "portugues": "perecer / morrer", "contexto_ref": "Parágrafo 3 do texto base"},
+        {"ingles": "endure", "portugues": "suportar / aguentar", "contexto_ref": "Parágrafo 3 do texto base"}
+      ]
+    },
+    "dificil": {
+      "id": "des_sib2_dificil",
+      "tempo_limite_segundos": 30,
+      "palavras": [
+        {"ingles": "micro-organisms", "portugues": "microrganismos", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "pathogenic", "portugues": "patogênico", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "antibacterial", "portugues": "antibacteriano", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "resistant bacteria", "portugues": "bactérias resistentes", "contexto_ref": "Parágrafo 3 do texto base"},
+        {"ingles": "defense mechanisms", "portugues": "mecanismos de defesa", "contexto_ref": "Parágrafo 3 do texto base"},
+        {"ingles": "tolerance", "portugues": "tolerância", "contexto_ref": "Parágrafo 4 do texto base"},
+        {"ingles": "compounds", "portugues": "compostos", "contexto_ref": "Parágrafo 4 do texto base"},
+        {"ingles": "cross-resistance", "portugues": "resistência cruzada", "contexto_ref": "Parágrafo 4 do texto base"},
+        {"ingles": "inhibitory target", "portugues": "alvo inibitório", "contexto_ref": "Parágrafo 4 do texto base"},
+        {"ingles": "genetic mutations", "portugues": "mutações genéticas", "contexto_ref": "Parágrafo 4 do texto base"}
+      ]
+    }
+  }
+}

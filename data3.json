@@ -1,0 +1,258 @@
+{
+  "id": "etica_basico_1",
+  "titulo": "Ética: Normas Sociais e Pesquisa",
+  "descricao": "Este módulo explora a relação entre ética e leis, a importância das normas éticas em diferentes disciplinas e profissões, e sua aplicação na pesquisa científica, com base em um texto acadêmico sobre ética.",
+  "texto_base": "1- Most societies have legal rules that govern behavior, but ethical norms tend to be broader and more informal than laws. Although most societies use laws to enforce widely accepted moral standards and ethical and legal rules use similar concepts, ethics and law are not the same. An action may be legal but unethical or illegal but ethical. We can also use ethical concepts and principles to criticize, evaluate, propose, or interpret laws. Indeed, in the last century, many social reformers have urged citizens to disobey laws they regarded as immoral or unjust laws. Peaceful civil disobedience is an ethical way of protesting laws or expressing political viewpoints.\n\n2- Another way of defining 'ethics' focuses on the disciplines that study standards of conduct, such as philosophy, theology, law, psychology, or sociology. For example, a 'medical ethicist' is someone who studies ethical standards in medicine. One may also define ethics as a method, procedure, or perspective for deciding how to act and for analyzing complex problems and issues. For instance, in considering a complex issue like global warming, one may take an economic, ecological, political, or ethical perspective on the problem. While an economist might examine the cost and benefits of various policies related to global warming, an environmental ethicist could examine the ethical values and principles at stake.\n\n3- Many different disciplines, institutions, and professions have standards for behavior that suit their particular aims and goals. These standards also help members of the discipline to coordinate their actions or activities and to establish the public's trust of the discipline. For instance, ethical standards govern conduct in medicine, law, engineering, and business. Ethical norms also serve the aims or goals of research and apply to people who conduct scientific research or other scholarly or creative activities.\n\n4- There are several reasons why it is important to adhere to ethical norms in research. First, norms promote the aims of research, such as knowledge, truth, and avoidance of error. For example, prohibitions against fabricating, falsifying, or misrepresenting research data promote the truth and minimize error. Second, since research often involves a great deal of cooperation and coordination among many different people in different disciplines and institutions, ethical standards promote the values that are essential to collaborative work, such as trust, accountability, mutual respect, and fairness. For example, many ethical norms in research, such as guidelines for authorship, copyright and patenting policies, data sharing policies, and confidentiality rules in peer review, are designed to protect intellectual property interests while encouraging collaboration. Most researchers want to receive credit for their contributions and do not want to have their ideas stolen or disclosed prematurely.\n\nGlossary\nBroader: wider; of great scope\nPolicies: plans; courses of action\nTo suit: to meet the requirements\nGuidelines: rules; principles",
+  "niveis_desafio_pontuacao": {
+    "facil": "70-80% de acertos",
+    "medio": "80-90% de acertos",
+    "dificil": "90-100% de acertos"
+  },
+  "exercicios": [
+    {
+      "id": "ex_etb1_1",
+      "tipo": "multipla_escolha",
+      "pergunta": "De acordo com o texto base, qual é a principal diferença entre normas éticas e leis?",
+      "contexto_texto_ref": "Parágrafo 1 do texto base",
+      "opcoes": ["Leis são mais informais que normas éticas", "Normas éticas tendem a ser mais amplas e informais que leis", "Ambos são exatamente iguais", "Leis são usadas apenas para criticar ações"],
+      "resposta_correta": "Normas éticas tendem a ser mais amplas e informais que leis",
+      "explicacao": "O texto afirma: 'ethical norms tend to be broader and more informal than laws'."
+    },
+    {
+      "id": "ex_etb1_2",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Uma ação pode ser legal, mas antiética, ou ilegal, mas ética. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 1 do texto base",
+      "resposta_correta": true,
+      "explicacao": "O texto declara: 'An action may be legal but unethical or illegal but ethical'."
+    },
+    {
+      "id": "ex_etb1_3",
+      "tipo": "pergunta_resposta",
+      "pergunta": "No contexto do texto base, qual é uma forma ética de protestar leis ou expressar pontos de vista políticos?",
+      "contexto_texto_ref": "Parágrafo 1 do texto base",
+      "respostas_aceitas": ["desobediência civil pacífica", "peaceful civil disobedience"],
+      "explicacao": "'Peaceful civil disobedience is an ethical way of protesting laws or expressing political viewpoints'."
+    },
+    {
+      "id": "ex_etb1_4",
+      "tipo": "multipla_escolha",
+      "pergunta": "Qual disciplina o texto base cita como um exemplo de estudo de padrões de conduta ao definir ética?",
+      "contexto_texto_ref": "Parágrafo 2 do texto base",
+      "opcoes": ["Matemática", "Economia", "Filosofia", "Engenharia"],
+      "resposta_correta": "Filosofia",
+      "explicacao": "O texto lista 'philosophy, theology, law, psychology, or sociology' como disciplinas que estudam padrões de conduta."
+    },
+    {
+      "id": "ex_etb1_5",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Um 'medical ethicist' (eticista médico) é alguém que estuda padrões éticos apenas em enfermagem. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 2 do texto base",
+      "resposta_correta": false,
+      "explicacao": "O texto afirma que ele 'studies ethical standards in medicine'."
+    },
+    {
+      "id": "ex_etb1_6",
+      "tipo": "pergunta_resposta",
+      "pergunta": "Qual é um dos exemplos de perspectivas que se pode tomar ao considerar uma questão complexa como o aquecimento global?",
+      "contexto_texto_ref": "Parágrafo 2 do texto base",
+      "respostas_aceitas": ["econômica", "ecológica", "política", "ética", "economic", "ecological", "political", "ethical"],
+      "explicacao": "'one may take an economic, ecological, political, or ethical perspective on the problem'."
+    },
+    {
+      "id": "ex_etb1_7",
+      "tipo": "multipla_escolha",
+      "pergunta": "Qual é a principal razão pela qual é importante aderir a normas éticas na pesquisa, mencionada como a primeira razão?",
+      "contexto_texto_ref": "Parágrafo 4 do texto base",
+      "opcoes": ["Para promover a cooperação", "Para evitar processos legais", "Para promover os objetivos da pesquisa (conhecimento, verdade, evitar erros)", "Para proteger interesses de propriedade intelectual"],
+      "resposta_correta": "Para promover os objetivos da pesquisa (conhecimento, verdade, evitar erros)",
+      "explicacao": "'First, norms promote the aims of research, such as knowledge, truth, and avoidance of error'."
+    },
+    {
+      "id": "ex_etb1_8",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Proibições contra fabricar, falsificar ou deturpar dados de pesquisa promovem a verdade e minimizam erros. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 4 do texto base",
+      "resposta_correta": true,
+      "explicacao": "'prohibitions against fabricating, falsifying, or misrepresenting research data promote the truth and minimize error'."
+    },
+    {
+      "id": "ex_etb1_9",
+      "tipo": "pergunta_resposta",
+      "pergunta": "O que as normas éticas promovem no trabalho colaborativo, além de confiança e responsabilidade?",
+      "contexto_texto_ref": "Parágrafo 4 do texto base",
+      "respostas_aceitas": ["respeito mútuo e justiça", "mutual respect and fairness"],
+      "explicacao": "'ethical standards promote the values that are essential to collaborative work, such as trust, accountability, mutual respect, and fairness'."
+    },
+    {
+      "id": "ex_etb1_10",
+      "tipo": "multipla_escolha",
+      "pergunta": "Qual o significado da palavra 'enforce' no contexto da frase 'most societies use laws to enforce widely accepted moral standards'?",
+      "contexto_texto_ref": "Parágrafo 1 do texto base",
+      "opcoes": ["Impor", "Representar", "Impedir", "Entender"],
+      "resposta_correta": "Impor",
+      "explicacao": "No PDF original, a Questão 2 (pág. 13) indica que 'enforce' é mais próxima em significado a 'Impose'."
+    },
+    {
+      "id": "ex_etb1_11",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Muitas normas éticas em pesquisa são projetadas para proteger interesses de propriedade intelectual e ao mesmo tempo incentivar a colaboração. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 4 do texto base",
+      "resposta_correta": true,
+      "explicacao": "'many ethical norms in research... are designed to protect intellectual property interests while encouraging collaboration'."
+    },
+    {
+      "id": "ex_etb1_12",
+      "tipo": "pergunta_resposta",
+      "pergunta": "No glossário do texto base, qual a tradução da palavra 'Broader'?",
+      "contexto_texto_ref": "Glossário do texto base",
+      "respostas_aceitas": ["mais amplo", "wider", "de grande alcance", "of great scope"],
+      "explicacao": "O glossário define 'Broader' como 'wider; of great scope'."
+    },
+    {
+      "id": "ex_etb1_13",
+      "tipo": "multipla_escolha",
+      "pergunta": "Qual o significado da palavra 'disclosed' no contexto da frase 'do not want to have their ideas stolen or disclosed prematurely'?",
+      "contexto_texto_ref": "Parágrafo 4 do texto base",
+      "opcoes": ["Revelado", "Descartado", "Compreendido", "Publicado"],
+      "resposta_correta": "Revelado",
+      "explicacao": "No PDF original, a Questão 8 (pág. 15) indica que 'disclosed' é mais próxima em significado a 'Revealed'."
+    },
+    {
+      "id": "ex_etb1_14",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A maioria das sociedades usa leis para impor padrões morais amplamente aceitos. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 1 do texto base",
+      "resposta_correta": true,
+      "explicacao": "'Although most societies use laws to enforce widely accepted moral standards'."
+    },
+    {
+      "id": "ex_etb1_15",
+      "tipo": "pergunta_resposta",
+      "pergunta": "Qual a ideia principal do texto base?",
+      "contexto_texto_ref": "Visão geral do texto base",
+      "respostas_aceitas": ["conceitos gerais sobre ética e sua importância na pesquisa", "General concepts about ethics and its importance in research"],
+      "explicacao": "A ideia central do texto é sobre conceitos gerais de ética e sua importância na pesquisa."
+    },
+    {
+      "id": "ex_etb1_16",
+      "tipo": "multipla_escolha",
+      "pergunta": "No parágrafo 1 do texto base, a quem se refere o pronome 'they' na frase 'many social reformers have urged citizens to disobey laws they regarded as immoral or unjust laws'?",
+      "contexto_texto_ref": "Parágrafo 1 do texto base",
+      "opcoes": ["Conceitos éticos", "Princípios", "Reformadores sociais", "Leis"],
+      "resposta_correta": "Leis",
+      "explicacao": "O pronome 'they' se refere a 'laws'."
+    },
+    {
+      "id": "ex_etb1_17",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "As normas éticas também servem aos objetivos da pesquisa e se aplicam a pessoas que conduzem pesquisa científica. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 3 do texto base",
+      "resposta_correta": true,
+      "explicacao": "'Ethical norms also serve the aims or goals of research and apply to people who conduct scientific research'."
+    },
+    {
+      "id": "ex_etb1_18",
+      "tipo": "pergunta_resposta",
+      "pergunta": "No glossário do texto base, qual a tradução para 'Policies'?",
+      "contexto_texto_ref": "Glossário do texto base",
+      "respostas_aceitas": ["planos", "cursos de ação", "plans", "courses of action"],
+      "explicacao": "O glossário define 'Policies' como 'plans; courses of action'."
+    },
+    {
+      "id": "ex_etb1_19",
+      "tipo": "multipla_escolha",
+      "pergunta": "Qual disciplina é citada como um exemplo onde padrões éticos governam a conduta profissional?",
+      "contexto_texto_ref": "Parágrafo 3 do texto base",
+      "opcoes": ["Artes", "História", "Engenharia", "Literatura"],
+      "resposta_correta": "Engenharia",
+      "explicacao": "'ethical standards govern conduct in medicine, law, engineering, and business'."
+    },
+    {
+      "id": "ex_etb1_20",
+      "tipo": "multipla_escolha",
+      "pergunta": "Qual a alternativa mais próxima em significado para a frase 'Many different disciplines, institutions, and professions have standards for behavior that suit their particular aims and goals'?",
+      "contexto_texto_ref": "Parágrafo 3 do texto base",
+      "opcoes": ["As atividades criativas devem seguir normas", "Algumas pessoas deveriam focar mais em ética", "Ciência é uma área restrita", "Tanto as pessoas quanto as atividades que elas conduzem estão sujeitas a normas éticas"],
+      "resposta_correta": "Tanto as pessoas quanto as atividades que elas conduzem estão sujeitas a normas éticas",
+      "explicacao": "No PDF original, a Questão 7 (pág. 14) pede a alternativa mais próxima em significado, e a correta é 'Both people and the activities they conduct are subject to ethical norms'."
+    }
+  ],
+  "exercicios_fixacao": [
+    {
+      "id": "fix_etb1_1",
+      "tipo": "multipla_escolha",
+      "pergunta": "Revisando o módulo, a palavra 'rely' (confiar) no texto base é mais próxima em significado de qual das alternativas?",
+      "contexto_texto_ref": "Parágrafo 3 do texto base",
+      "opcoes": ["Trust", "Discard", "Refer", "Refuse"],
+      "resposta_correta": "Trust",
+      "explicacao": "No PDF original, a Questão 7 (pág. 4) indica que 'rely' é mais próxima em significado a 'Trust'."
+    },
+    {
+      "id": "fix_etb1_2",
+      "tipo": "pergunta_resposta",
+      "pergunta": "O que o texto base afirma que acontece com 'ethical norms' (normas éticas) e 'laws' (leis) em termos de seus conceitos?",
+      "contexto_texto_ref": "Parágrafo 1 do texto base",
+      "respostas_aceitas": ["usam conceitos similares", "use similar concepts"],
+      "explicacao": "'ethical and legal rules use similar concepts'."
+    },
+    {
+      "id": "fix_etb1_3",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "O termo 'ethics' pode ser definido como um método ou perspectiva para decidir como agir e analisar problemas complexos. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 2 do texto base",
+      "resposta_correta": true,
+      "explicacao": "'One may also define ethics as a method, procedure, or perspective for deciding how to act and for analyzing complex problems and issues'."
+    }
+  ],
+  "desafios": {
+    "facil": {
+      "id": "des_etb1_facil",
+      "tempo_limite_segundos": 60,
+      "palavras": [
+        {"ingles": "govern", "portugues": "governar / reger", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "broader", "portugues": "mais amplo", "contexto_ref": "Glossário do texto base"},
+        {"ingles": "informal", "portugues": "informal", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "enforce", "portugues": "impor", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "moral standards", "portugues": "padrões morais", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "unethical", "portugues": "antiético", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "criticize", "portugues": "criticar", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "propose", "portugues": "propor", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "viewpoints", "portugues": "pontos de vista", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "conduct", "portugues": "conduta", "contexto_ref": "Parágrafo 2 do texto base"}
+      ]
+    },
+    "medio": {
+      "id": "des_etb1_medio",
+      "tempo_limite_segundos": 45,
+      "palavras": [
+        {"ingles": "misconceptions", "portugues": "equívocos", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "principles", "portugues": "princípios", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "stake", "portugues": "em jogo", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "adhere to", "portugues": "aderir a", "contexto_ref": "Parágrafo 4 do texto base"},
+        {"ingles": "avoidance", "portugues": "evitação", "contexto_ref": "Parágrafo 4 do texto base"},
+        {"ingles": "fabricating", "portugues": "fabricando", "contexto_ref": "Parágrafo 4 do texto base"},
+        {"ingles": "falsifying", "portugues": "falsificando", "contexto_ref": "Parágrafo 4 do texto base"},
+        {"ingles": "misrepresenting", "portugues": "deturpando", "contexto_ref": "Parágrafo 4 do texto base"},
+        {"ingles": "accountability", "portugues": "responsabilidade", "contexto_ref": "Parágrafo 4 do texto base"},
+        {"ingles": "fairness", "portugues": "justiça", "contexto_ref": "Parágrafo 4 do texto base"}
+      ]
+    },
+    "dificil": {
+      "id": "des_etb1_dificil",
+      "tempo_limite_segundos": 30,
+      "palavras": [
+        {"ingles": "philosophy", "portugues": "filosofia", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "theology", "portugues": "teologia", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "sociology", "portugues": "sociologia", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "perspective", "portugues": "perspectiva", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "disciplines", "portugues": "disciplinas", "contexto_ref": "Parágrafo 3 do texto base"},
+        {"ingles": "institutions", "portugues": "instituições", "contexto_ref": "Parágrafo 3 do texto base"},
+        {"ingles": "professions", "portugues": "profissões", "contexto_ref": "Parágrafo 3 do texto base"},
+        {"ingles": "collaborative work", "portugues": "trabalho colaborativo", "contexto_ref": "Parágrafo 4 do texto base"},
+        {"ingles": "confidentiality", "portugues": "confidencialidade", "contexto_ref": "Parágrafo 4 do texto base"},
+        {"ingles": "disclosed", "portugues": "divulgado / revelado", "contexto_ref": "Parágrafo 4 do texto base"}
+      ]
+    }
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "modulos": [
+    {
+      "id": "educacao_basico_1",
+      "titulo": "Educação e Aprendizagem: Fundamentos",
+      "descricao": "Este módulo aborda vocabulário e conceitos essenciais sobre métodos de estudo e a relação entre ciência e educação, com base em textos acadêmicos.",
+      "texto_base": "1- Most teachers would agree that it is important that students remember much of what they read. Yet one of the most common sights on high school and university campuses across the land is that of students reading textbooks, yellow marker in hand, highlighting pertinent passages-which often end up including most of the page. Later in the semester, to prepare for their exams, students hit the textbooks again, rereading the yellow blocks of text. Studies have shown that highlighting and rereading text is among the least effective ways for students to remember the content of what they have read. A far better technique is for students to quiz themselves. In one study, students who read a text once and then tried to recall it on three occasions scored 50 percent higher on exams than students who read the text and then reread it three times. And yet many teachers persist in encouraging or at least not discouraging-the techniques that science has proved to be wrong.\n\n2- This is just one symptom of a general failure to integrate scientific knowledge of the mind into education. Many misconceptions and commonly held ideas about education defy scientific principles of thinking and learning. For example, a common misconception is that teaching content is less important than teaching critical thinking skills or problem-solving strategies. Scientists have also long known that kids must be explicitly taught the connections between letters and sounds and that they benefit most when such instruction is planned and explicit. Yet some reading programs, even those used in large school districts, teach this information only if an instructor sees the need.\n\n3- It is easy to argue that teachers ought to do a better job of keeping up with science, but teaching is already a labor-intensive profession. And it is difficult for the nonspecialist to separate scientific research from pseudoscience. Other products that may have scientific validity have not yet been thoroughly tested. For example, theories of mathematical learning suggest that linear (but not circular) board games may boost math preparedness in preschoolers, but the idea needs large-scale testing. How are educators supposed to know which practices to use? An institution that provides research and summarizes it for educators could solve the problem. Medicine provides a precedent. Practicing physicians do not have the time to keep up with the tens of thousands of research articles published annually that might suggest a change in treatment. Instead they rely on reputable summaries of research, published annually, that draw conclusions as to whether the accumulated evidence merits a change in medical practice. Teachers have nothing like these authoritative reviews. They are on their own.\n\nGlossário\nSights: views\nHighlighting: emphasizing\nMisconception: wrong idea\nTo keep up: to keep informed",
+      "niveis_desafio_pontuacao": {
+        "facil": "70-80% de acertos",
+        "medio": "80-90% de acertos",
+        "dificil": "90-100% de acertos"
+      },
+      "exercicios": [
+        {
+          "id": "ex_eb1_1",
+          "tipo": "multipla_escolha",
+          "pergunta": "De acordo com o texto base, qual é uma das técnicas de estudo mais comuns, mas que os estudos mostram ser 'least effective'?",
+          "contexto_texto_ref": "Parágrafo 1 do texto base",
+          "opcoes": ["Fazer resumos detalhados", "Grifar passagens com marca-texto amarelo e reler", "Testar a si mesmo com frequência", "Participar de grupos de estudo"],
+          "resposta_correta": "Grifar passagens com marca-texto amarelo e reler",
+          "explicacao": "O texto afirma que 'highlighting and rereading text is among the least effective ways'."
+        },
+        {
+          "id": "ex_eb1_2",
+          "tipo": "verdadeiro_falso",
+          "pergunta": "O texto base sugere que a educação tem tido sucesso em integrar o conhecimento científico da mente no ensino. (VERDADEIRO/FALSO)",
+          "contexto_texto_ref": "Parágrafo 2 do texto base",
+          "resposta_correta": false,
+          "explicacao": "O texto descreve isso como um 'general failure to integrate scientific knowledge of the mind into education'."
+        },
+        {
+          "id": "ex_eb1_3",
+          "tipo": "pergunta_resposta",
+          "pergunta": "No contexto do texto base, qual o termo em inglês usado para se referir a uma 'ideia errada' amplamente difundida?",
+          "contexto_texto_ref": "Parágrafo 2 do texto base",
+          "respostas_aceitas": ["misconception"],
+          "explicacao": "O texto menciona 'Many misconceptions and commonly held ideas about education...'. O glossário também define 'Misconception' como 'wrong idea'."
+        },
+        {
+          "id": "ex_eb1_4",
+          "tipo": "multipla_escolha",
+          "pergunta": "Qual a principal técnica de estudo que o texto base aponta como 'far better' (muito melhor) do que grifar e reler?",
+          "contexto_texto_ref": "Parágrafo 1 do texto base",
+          "opcoes": ["Anotar tudo em tablets", "Revisar as anotações diariamente", "Os alunos se testarem (quiz themselves)", "Ler o texto várias vezes seguidas"],
+          "resposta_correta": "Os alunos se testarem (quiz themselves)",
+          "explicacao": "O texto diz: 'A far better technique is for students to quiz themselves'."
+        },
+        {
+          "id": "ex_eb1_5",
+          "tipo": "verdadeiro_falso",
+          "pergunta": "Muitos professores desencorajam ativamente o uso de técnicas de estudo que a ciência provou serem ineficazes. (VERDADEIRO/FALSO)",
+          "contexto_texto_ref": "Parágrafo 1 do texto base",
+          "resposta_correta": false,
+          "explicacao": "O texto afirma que muitos professores 'persist in encouraging - or at least not discouraging - the techniques that science has proved to be wrong'."
+        },
+        {
+          "id": "ex_eb1_6",
+          "tipo": "pergunta_resposta",
+          "pergunta": "O texto base menciona que os cientistas sabem há muito tempo que as crianças devem ser ensinadas de forma explícita sobre a conexão entre o que?",
+          "contexto_texto_ref": "Parágrafo 2 do texto base",
+          "respostas_aceitas": ["letras e sons", "connections between letters and sounds"],
+          "explicacao": "Cientistas 'have also long known that kids must be explicitly taught the connections between letters and sounds'."
+        },
+        {
+          "id": "ex_eb1_7",
+          "tipo": "multipla_escolha",
+          "pergunta": "Qual a principal dificuldade para o 'nonspecialist' (não especialista) no campo da educação, de acordo com o texto base?",
+          "contexto_texto_ref": "Parágrafo 3 do texto base",
+          "opcoes": ["Manter-se informado sobre novas tecnologias", "Separar pesquisa científica de pseudociência", "Lidar com a carga de trabalho", "Entender teorias de aprendizado matemático"],
+          "resposta_correta": "Separar pesquisa científica de pseudociência",
+          "explicacao": "'it is difficult for the nonspecialist to separate scientific research from pseudoscience'."
+        },
+        {
+          "id": "ex_eb1_8",
+          "tipo": "verdadeiro_falso",
+          "pergunta": "A profissão de professor é descrita como 'labor-intensive' (que exige muito trabalho). (VERDADEIRO/FALSO)",
+          "contexto_texto_ref": "Parágrafo 3 do texto base",
+          "resposta_correta": true,
+          "explicacao": "'teaching is already a labor-intensive profession'."
+        },
+        {
+          "id": "ex_eb1_9",
+          "tipo": "pergunta_resposta",
+          "pergunta": "O texto base compara a situação dos professores com qual outra profissão que possui 'reputable summaries of research' (resumos de pesquisa de boa reputação)?",
+          "contexto_texto_ref": "Parágrafo 3 do texto base",
+          "respostas_aceitas": ["medicina", "medicine", "praticando médicos", "practicing physicians"],
+          "explicacao": "'Medicine provides a precedent. Practicing physicians... rely on reputable summaries of research...'."
+        },
+        {
+          "id": "ex_eb1_10",
+          "tipo": "multipla_escolha",
+          "pergunta": "O que o texto base afirma sobre o que os professores têm em relação a 'authoritative reviews' (revisões autoritárias)?",
+          "contexto_texto_ref": "Parágrafo 3 do texto base",
+          "opcoes": ["Eles têm acesso a muitas", "Eles não têm nada parecido", "Eles as ignoram", "Eles as criam"],
+          "resposta_correta": "Eles não têm nada parecido",
+          "explicacao": "'Teachers have nothing like these authoritative reviews. They are on their own'."
+        },
+        {
+          "id": "ex_eb1_11",
+          "tipo": "verdadeiro_falso",
+          "pergunta": "Teorias de aprendizado matemático sugerem que jogos de tabuleiro lineares (mas não circulares) podem 'boost' (aumentar) a preparação matemática em pré-escolares. (VERDADEIRO/FALSO)",
+          "contexto_texto_ref": "Parágrafo 3 do texto base",
+          "resposta_correta": true,
+          "explicacao": "'theories of mathematical learning suggest that linear (but not circular) board games may boost math preparedness in preschoolers'."
+        },
+        {
+          "id": "ex_eb1_12",
+          "tipo": "pergunta_resposta",
+          "pergunta": "No glossário do texto base, o que a frase 'to keep up' significa?",
+          "contexto_texto_ref": "Glossário do texto base",
+          "respostas_aceitas": ["manter-se informado", "to keep informed"],
+          "explicacao": "O glossário define 'To keep up' como 'to keep informed'."
+        },
+        {
+          "id": "ex_eb1_13",
+          "tipo": "multipla_escolha",
+          "pergunta": "Qual a porcentagem de pontuação que os alunos que se testaram obtiveram a mais em exames, comparado aos que releram o texto três vezes?",
+          "contexto_texto_ref": "Parágrafo 1 do texto base",
+          "opcoes": ["25 por cento", "30 por cento", "50 por cento", "100 por cento"],
+          "resposta_correta": "50 por cento",
+          "explicacao": "'students who read a text once and then tried to recall it on three occasions scored 50 percent higher on exams than students who read the text and then reread it three times'."
+        },
+        {
+          "id": "ex_eb1_14",
+          "tipo": "verdadeiro_falso",
+          "pergunta": "O texto base afirma que a maioria dos professores incentiva a técnica de os alunos se testarem, por ser mais eficaz. (VERDADEIRO/FALSO)",
+          "contexto_texto_ref": "Parágrafo 1 do texto base",
+          "resposta_correta": false,
+          "explicacao": "O texto diz que 'many teachers persist in encouraging or at least not discouraging - the techniques that science has proved to be wrong'."
+        },
+        {
+          "id": "ex_eb1_15",
+          "tipo": "pergunta_resposta",
+          "pergunta": "O texto base sugere como solução para o problema dos educadores não saberem quais práticas usar?",
+          "contexto_texto_ref": "Parágrafo 3 do texto base",
+          "respostas_aceitas": ["uma instituição que fornece pesquisa e a resume", "an institution that provides research and summarizes it"],
+          "explicacao": "'An institution that provides research and summarizes it for educators could solve the problem'."
+        },
+        {
+          "id": "ex_eb1_16",
+          "tipo": "multipla_escolha",
+          "pergunta": "Qual a ideia principal do texto base?",
+          "contexto_texto_ref": "Visão geral do texto base",
+          "opcoes": ["Aprender é uma tarefa difícil", "É importante melhorar a forma como professores ensinam e alunos aprendem", "Marcadores amarelos são importantes", "A prática educacional é como a médica"],
+          "resposta_correta": "É importante melhorar a forma como professores ensinam e alunos aprendem",
+          "explicacao": "A ideia central do texto é a necessidade de melhorar as práticas educacionais com base na ciência, comparando-a com a medicina."
+        },
+        {
+          "id": "ex_eb1_17",
+          "tipo": "verdadeiro_falso",
+          "pergunta": "O texto base infere que a 'general failure' (falha geral) em integrar o conhecimento científico da mente na educação é um problema secundário. (VERDADEIRO/FALSO)",
+          "contexto_texto_ref": "Parágrafo 2 do texto base",
+          "resposta_correta": false,
+          "explicacao": "O texto a descreve como 'just one symptom of a general failure', implicando que é um problema significativo."
+        },
+        {
+          "id": "ex_eb1_18",
+          "tipo": "pergunta_resposta",
+          "pergunta": "No glossário do texto base, qual a tradução para 'Sights'?",
+          "contexto_texto_ref": "Glossário do texto base",
+          "respostas_aceitas": ["vistas", "views"],
+          "explicacao": "O glossário define 'Sights' como 'views'."
+        },
+        {
+          "id": "ex_eb1_19",
+          "tipo": "multipla_escolha",
+          "pergunta": "No parágrafo 1 do texto base, a quem se refere o pronome 'they' na frase 'Most teachers would agree that it is important that students remember much of what they read'?",
+          "contexto_texto_ref": "Parágrafo 1 do texto base",
+          "opcoes": ["Professores", "Alunos", "Livros didáticos", "Técnicas de estudo"],
+          "resposta_correta": "Alunos",
+          "explicacao": "O pronome 'they' se refere aos 'students' que estão lendo."
+        },
+        {
+          "id": "ex_eb1_20",
+          "tipo": "multipla_escolha",
+          "pergunta": "No parágrafo 3 do texto base, a quem se refere o pronome 'they' na frase 'Teachers have nothing like these authoritative reviews. They are on their own.'?",
+          "contexto_texto_ref": "Parágrafo 3 do texto base",
+          "opcoes": ["Sumários", "Conclusões", "Práticas médicas", "Professores"],
+          "resposta_correta": "Professores",
+          "explicacao": "O pronome 'They' se refere aos 'Teachers' que estão por conta própria."
+        }
+      ],
+      "exercicios_fixacao": [
+        {
+          "id": "fix_eb1_1",
+          "tipo": "multipla_escolha",
+          "pergunta": "Revisando o módulo, qual a principal conclusão do estudo mencionado no texto base sobre a eficácia de 'highlighting' e 'rereading'?",
+          "contexto_texto_ref": "Parágrafo 1 do texto base",
+          "opcoes": ["São as melhores técnicas", "São as menos eficazes", "São úteis para alguns alunos", "Não foram suficientemente testadas"],
+          "resposta_correta": "São as menos eficazes",
+          "explicacao": "O texto explicitamente afirma que são 'among the least effective ways'."
+        },
+        {
+          "id": "fix_eb1_2",
+          "tipo": "pergunta_resposta",
+          "pergunta": "No contexto da comparação com a medicina, o que os professores não possuem, diferentemente dos médicos, para se manterem atualizados?",
+          "contexto_texto_ref": "Parágrafo 3 do texto base",
+          "respostas_aceitas": ["revisões autoritárias", "authoritative reviews", "resumos de pesquisa confiáveis", "reputable summaries of research"],
+          "explicacao": "Médicos 'rely on reputable summaries of research', enquanto 'Teachers have nothing like these authoritative reviews'."
+        },
+        {
+          "id": "fix_eb1_3",
+          "tipo": "verdadeiro_falso",
+          "pergunta": "A ideia de que ensinar pensamento crítico é menos importante que conteúdo é uma 'common misconception' (equívoco comum) de acordo com o texto base. (VERDADEIRO/FALSO)",
+          "contexto_texto_ref": "Parágrafo 2 do texto base",
+          "resposta_correta": true,
+          "explicacao": "'a common misconception is that teaching content is less important than teaching critical thinking skills'."
+        }
+      ],
+      "desafios": {
+        "facil": {
+          "id": "des_eb1_facil",
+          "tempo_limite_segundos": 60,
+          "palavras": [
+            {"ingles": "sights", "portugues": "vistas", "contexto_ref": "Glossário do texto base"},
+            {"ingles": "highlighting", "portugues": "destacando / grifando", "contexto_ref": "Glossário do texto base"},
+            {"ingles": "misconception", "portugues": "ideia errada / equívoco", "contexto_ref": "Glossário do texto base"},
+            {"ingles": "to keep up", "portugues": "manter-se informado", "contexto_ref": "Glossário do texto base"},
+            {"ingles": "technique", "portugues": "técnica", "contexto_ref": "Parágrafo 1 do texto base"},
+            {"ingles": "studies", "portugues": "estudos", "contexto_ref": "Parágrafo 1 do texto base"},
+            {"ingles": "score", "portugues": "pontuar", "contexto_ref": "Parágrafo 1 do texto base"},
+            {"ingles": "wrong", "portugues": "errado", "contexto_ref": "Parágrafo 1 do texto base"},
+            {"ingles": "mind", "portugues": "mente", "contexto_ref": "Parágrafo 2 do texto base"},
+            {"ingles": "skills", "portugues": "habilidades", "contexto_ref": "Parágrafo 2 do texto base"}
+          ]
+        },
+        "medio": {
+          "id": "des_eb1_medio",
+          "tempo_limite_segundos": 45,
+          "palavras": [
+            {"ingles": "integrate", "portugues": "integrar", "contexto_ref": "Parágrafo 2 do texto base"},
+            {"ingles": "symptom", "portugues": "sintoma", "contexto_ref": "Parágrafo 2 do texto base"},
+            {"ingles": "defy", "portugues": "desafiar", "contexto_ref": "Parágrafo 2 do texto base"},
+            {"ingles": "explicitly", "portugues": "explicitamente", "contexto_ref": "Parágrafo 2 do texto base"},
+            {"ingles": "persist", "portugues": "persistir", "contexto_ref": "Parágrafo 1 do texto base"},
+            {"ingles": "content", "portugues": "conteúdo", "contexto_ref": "Parágrafo 1 do texto base"},
+            {"ingles": "campus", "portugues": "campus", "contexto_ref": "Parágrafo 1 do texto base"},
+            {"ingles": "textbooks", "portugues": "livros didáticos", "contexto_ref": "Parágrafo 1 do texto base"},
+            {"ingles": "recall", "portugues": "recordar", "contexto_ref": "Parágrafo 1 do texto base"},
+            {"ingles": "general", "portugues": "geral", "contexto_ref": "Parágrafo 2 do texto base"}
+          ]
+        },
+        "dificil": {
+          "id": "des_eb1_dificil",
+          "tempo_limite_segundos": 30,
+          "palavras": [
+            {"ingles": "labor-intensive", "portugues": "intensivo em mão de obra", "contexto_ref": "Parágrafo 3 do texto base"},
+            {"ingles": "pseudoscience", "portugues": "pseudociência", "contexto_ref": "Parágrafo 3 do texto base"},
+            {"ingles": "reputable", "portugues": "de boa reputação", "contexto_ref": "Parágrafo 3 do texto base"},
+            {"ingles": "merits", "portugues": "merece", "contexto_ref": "Parágrafo 3 do texto base"},
+            {"ingles": "authoritative", "portugues": "autoritário", "contexto_ref": "Parágrafo 3 do texto base"},
+            {"ingles": "precedent", "portugues": "precedente", "contexto_ref": "Parágrafo 3 do texto base"},
+            {"ingles": "accumulated", "portugues": "acumulado", "contexto_ref": "Parágrafo 3 do texto base"},
+            {"ingles": "validated", "portugues": "validado", "contexto_ref": "Parágrafo 3 do texto base"},
+            {"ingles": "ought to", "portugues": "deveria", "contexto_ref": "Parágrafo 3 do texto base"},
+            {"ingles": "on their own", "portugues": "por conta própria / sozinhos", "contexto_ref": "Parágrafo 3 do texto base"}
+          ]
+        }
+      }
+    }
+  ]
+}

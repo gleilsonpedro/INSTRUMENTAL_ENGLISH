@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aprenda Inglês com Cérebro!</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <img id="mascot-header" src="img/cerebro_feliz.png" alt="Mascote Cérebro Feliz">
+            <h1>Cérebro no Comando!</h1>
+            <button id="home-button" class="hidden home-button-style">
+                <img src="img/cerebro_pensativo.png" alt="Voltar ao Menu">
+                <span>Voltar ao Menu</span>
+            </button>
+        </div>
+    </header>
+
+    <main id="app-container">
+        <section id="site-explanation" class="screen">
+            <h2>Bem-vindo ao Cérebro no Comando!</h2>
+            <p>Este site foi criado para te ajudar a aprimorar suas habilidades em Inglês Instrumental, essenciais para a leitura e compreensão de textos acadêmicos e técnicos. Aqui, você encontrará módulos de estudo interativos com exercícios de múltipla escolha, verdadeiro/falso e perguntas e respostas, além de desafios de vocabulário cronometrados. Prepare-se para sua prova de proeficiência de forma divertida e eficaz!</p>
+            <p>Selecione um módulo abaixo para começar a treinar seu Cérebro!</p>
+        </section>
+
+        <section id="module-selection" class="screen">
+            <h2>Escolha seu Módulo de Estudo</h2>
+            <div id="module-list" class="grid-container">
+                </div>
+        </section>
+
+        <section id="module-content" class="screen hidden">
+            <h2 id="module-title"></h2>
+            
+            <div class="module-progress">
+                <span id="correct-answers-display">Acertos: 0/0</span>
+                <div class="progress-bar-container">
+                    <div id="progress-bar-fill"></div>
+                </div>
+            </div>
+
+            <div id="text-base-container">
+                <h3>Texto de Referência:</h3>
+                <div id="text-base-content">
+                    </div>
+            </div>
+            
+            <div id="exercise-container">
+                </div>
+            <div class="navigation-buttons">
+                <button id="next-exercise-btn">Próximo</button>
+                <button id="check-answer-btn">Verificar</button>
+            </div>
+            <div id="feedback-area">
+                <img id="mascot-feedback" src="img/cerebro_neutro.png" alt="Mascote Cérebro" class="hidden">
+                <p id="feedback-text"></p>
+                <button id="continue-btn" class="hidden">Continuar</button>
+            </div>
+        </section>
+
+        <section id="challenge-screen" class="screen hidden">
+            <h2 id="challenge-title">Desafio de Vocabulário</h2>
+            <div id="challenge-timer">Tempo: <span id="timer-display"></span>s</div>
+            <div id="challenge-pairs" class="grid-container">
+                </div>
+            <div id="challenge-feedback-area">
+                <p id="challenge-feedback-text"></p>
+                <button id="challenge-restart-btn" class="hidden">Tentar Novamente</button>
+                <button id="challenge-back-to-modules-btn" class="hidden">Voltar aos Módulos</button>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Cérebro Aprendiz. Todos os direitos reservados.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

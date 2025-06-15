@@ -1,0 +1,258 @@
+{
+  "id": "agricultura_interm_1",
+  "titulo": "Agricultura: Orgânica vs. Convencional",
+  "descricao": "Este módulo compara a agricultura orgânica e convencional, discutindo seus impactos ambientais e na produção de alimentos, com base em um texto acadêmico.",
+  "texto_base": "1-Although organic farmers, with their food production from in all regions, may not be able to feed the world alone, they do have an important role to play in feeding a growing global population while minimizing environmental damage. There are actually many studies from around the world showing that organic farms can produce about as much, and in some settings much more than conventional farms. The gap tends to be widest in rich nations, where farmers use copious amounts of synthetic fertilizers and pesticides in a perennial attempt to maximize yields. It is true that farmers converting to organic production often encounter lower yields in the first few years, as the soil and surrounding biodiversity recover from years of assault with chemicals. And it may take several seasons for farmers to refine the new approach.\n\n2- The long-standing argument that organic farming would yield just one-third or one-half of conventional farming is based on biased hypothesis and lack of data. Some people point to conventional agriculture as a big environmental threat that undercuts biodiversity and water resources, while releasing greenhouse gases. Others argue that large-scale organic farming would take up more land and make food unaffordable for most of the world's poor and hungry. But up-to-date research refutes these arguments. A recent study by scientists at the Research Institute for Organic Agriculture in Switzerland showed that organic farms were only 20 percent less productive than conventional plots over a 21-year period. Reviewing data of 154 growing seasons on various crops grown on rain-fed and irrigated land in the United States, the University of California-Davis agricultural researchers found that organic corn yields were 94 percent of conventional yields, organic wheat yields were 97 percent, and organic soybean yields were 94 percent.\n\n3- According to a study by McGill University and the University of Minnesota published in Nature, crop yields from organic farming are generally lower than those from conventional agriculture. That is particularly true for cereals, which are staples of the human diet -- yet the yield gap is much less significant for certain crops, and under certain growing conditions. Overall, organic yields are 25 percent lower than conventional, the study finds. The results point to a need to get beyond the black-and-white, ideological debates that often pit advocates of organic and local foods against proponents of conventional agriculture. By combining organic and conventional practices in a way that maximizes food production and social good while minimizing adverse environmental impact, we can create a truly sustainable food system.\n\nGLOSSARY\nYield: an amount or quantity produced\nBiased: distorted; tendentious\nThreat: danger\nCrop: cultivated plants; agricultural produce\nStaples: basic or principal dietary items",
+  "niveis_desafio_pontuacao": {
+    "facil": "70-80% de acertos",
+    "medio": "80-90% de acertos",
+    "dificil": "90-100% de acertos"
+  },
+  "exercicios": [
+    {
+      "id": "ex_agri1_1",
+      "tipo": "multipla_escolha",
+      "pergunta": "De acordo com o texto base, qual é o papel importante dos agricultores orgânicos, mesmo que não possam alimentar o mundo sozinhos?",
+      "contexto_texto_ref": "Parágrafo 1 do texto base",
+      "opcoes": ["Minimizar os danos ambientais e alimentar uma população global crescente", "Aumentar o uso de fertilizantes sintéticos", "Maximizar os rendimentos a todo custo", "Converter rapidamente para a produção convencional"],
+      "resposta_correta": "Minimizar os danos ambientais e alimentar uma população global crescente",
+      "explicacao": "O texto afirma: 'they do have an important role to play in feeding a growing global population while minimizing environmental damage'."
+    },
+    {
+      "id": "ex_agri1_2",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Estudos mostram que fazendas orgânicas não conseguem produzir tanto quanto fazendas convencionais em nenhuma situação. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 1 do texto base",
+      "resposta_correta": false,
+      "explicacao": "O texto diz: 'many studies from around the world showing that organic farms can produce about as much, and in some settings much more than conventional farms'."
+    },
+    {
+      "id": "ex_agri1_3",
+      "tipo": "pergunta_resposta",
+      "pergunta": "No contexto do texto base, onde a 'gap' (lacuna) na produção entre fazendas orgânicas e convencionais tende a ser maior?",
+      "contexto_texto_ref": "Parágrafo 1 do texto base",
+      "respostas_aceitas": ["em nações ricas", "in rich nations"],
+      "explicacao": "O texto afirma: 'The gap tends to be widest in rich nations'. No PDF original, a Questão 3 (pág. 35) confirma que 'gap' significa 'Difference'."
+    },
+    {
+      "id": "ex_agri1_4",
+      "tipo": "multipla_escolha",
+      "pergunta": "Quando os agricultores se convertem para a produção orgânica, o que eles frequentemente encontram nos primeiros anos?",
+      "contexto_texto_ref": "Parágrafo 1 do texto base",
+      "opcoes": ["Rendimentos mais altos", "Solo mais fértil", "Menor uso de produtos químicos", "Rendimentos mais baixos"],
+      "resposta_correta": "Rendimentos mais baixos",
+      "explicacao": "'farmers converting to organic production often encounter lower yields in the first few years'."
+    },
+    {
+      "id": "ex_agri1_5",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "O argumento de longa data de que a agricultura orgânica renderia apenas um terço ou metade da agricultura convencional é baseado em hipóteses 'biased' (tendenciosas) e falta de dados. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 2 do texto base",
+      "resposta_correta": true,
+      "explicacao": "'The long-standing argument that organic farming would yield just one-third or one-half of conventional farming is based on biased hypothesis and lack of data'."
+    },
+    {
+      "id": "ex_agri1_6",
+      "tipo": "pergunta_resposta",
+      "pergunta": "No glossário do texto base, qual o significado da palavra 'Yield'?",
+      "contexto_texto_ref": "Glossário do texto base",
+      "respostas_aceitas": ["quantidade produzida", "an amount or quantity produced"],
+      "explicacao": "O glossário define 'Yield' como 'an amount or quantity produced'."
+    },
+    {
+      "id": "ex_agri1_7",
+      "tipo": "multipla_escolha",
+      "pergunta": "Qual das seguintes preocupações é levantada por algumas pessoas sobre a agricultura convencional?",
+      "contexto_texto_ref": "Parágrafo 2 do texto base",
+      "opcoes": ["Que ela torna os alimentos acessíveis", "Que ela aumenta a biodiversidade", "Que ela é uma grande ameaça ambiental que prejudica a biodiversidade e recursos hídricos", "Que ela não libera gases de efeito estufa"],
+      "resposta_correta": "Que ela é uma grande ameaça ambiental que prejudica a biodiversidade e recursos hídricos",
+      "explicacao": "'Some people point to conventional agriculture as a big environmental threat that undercuts biodiversity and water resources, while releasing greenhouse gases'."
+    },
+    {
+      "id": "ex_agri1_8",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Pesquisas recentes refutam o argumento de que a agricultura orgânica em larga escala ocuparia mais terras e tornaria os alimentos inacessíveis para os mais pobres. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 2 do texto base",
+      "resposta_correta": true,
+      "explicacao": "'But up-to-date research refutes these arguments'."
+    },
+    {
+      "id": "ex_agri1_9",
+      "tipo": "pergunta_resposta",
+      "pergunta": "No glossário do texto base, qual o significado da palavra 'Threat'?",
+      "contexto_texto_ref": "Glossário do texto base",
+      "respostas_aceitas": ["perigo", "danger"],
+      "explicacao": "O glossário define 'Threat' como 'danger'."
+    },
+    {
+      "id": "ex_agri1_10",
+      "tipo": "multipla_escolha",
+      "pergunta": "No texto base, qual o significado da palavra 'unaffordable' (inacessível)?",
+      "contexto_texto_ref": "Parágrafo 2 do texto base",
+      "opcoes": ["Disponível", "Insignificante", "Caro", "Intensivo"],
+      "resposta_correta": "Caro",
+      "explicacao": "No PDF original, a Questão 5 (pág. 36) indica que 'unaffordable' é mais próxima em significado a 'Expensive'."
+    },
+    {
+      "id": "ex_agri1_11",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Um estudo recente na Suíça mostrou que fazendas orgânicas foram apenas 20% menos produtivas que as convencionais durante um período de 21 anos. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 2 do texto base",
+      "resposta_correta": true,
+      "explicacao": "'A recent study... showed that organic farms were only 20 percent less productive than conventional plots over a 21-year period'."
+    },
+    {
+      "id": "ex_agri1_12",
+      "tipo": "pergunta_resposta",
+      "pergunta": "De acordo com o texto base, qual é um exemplo de 'staples' (itens básicos) da dieta humana?",
+      "contexto_texto_ref": "Glossário do texto base e Parágrafo 3 do texto base",
+      "respostas_aceitas": ["cereais", "cereals"],
+      "explicacao": "O glossário define 'Staples' como 'basic or principal dietary items', e o texto menciona 'cereals, which are staples of the human diet'."
+    },
+    {
+      "id": "ex_agri1_13",
+      "tipo": "multipla_escolha",
+      "pergunta": "Qual a alternativa mais próxima em significado para a frase 'The productivity of organic farms is 80% of the productivity of conventional farms'?",
+      "contexto_texto_ref": "Parágrafo 2 do texto base",
+      "opcoes": ["20% das fazendas não têm produção adequada", "Fazendas orgânicas produziram 80% dos produtos", "A produtividade das fazendas orgânicas é 80% da convencional", "Há 80% de fazendas convencionais"],
+      "resposta_correta": "A produtividade das fazendas orgânicas é 80% da convencional",
+      "explicacao": "No PDF original, a Questão 7 (pág. 37) indica a resposta correta como 'The productivity of organic farms is 80% of the productivity of conventional farms'."
+    },
+    {
+      "id": "ex_agri1_14",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "As discussões ideológicas entre defensores da agricultura orgânica e convencional são sempre construtivas e levam a soluções. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 3 do texto base",
+      "resposta_correta": false,
+      "explicacao": "O texto sugere a necessidade de ir 'beyond the black-and-white, ideological debates that often pit advocates of organic and local foods against proponents of conventional agriculture'."
+    },
+    {
+      "id": "ex_agri1_15",
+      "tipo": "pergunta_resposta",
+      "pergunta": "Qual a tradução para a frase 'In new organic farms, it may take years until the soil recovers its quality and biodiversity'?",
+      "contexto_texto_ref": "Parágrafo 1 do texto base",
+      "respostas_aceitas": ["Em novas fazendas orgânicas, pode levar anos até que o solo recupere sua qualidade e biodiversidade"],
+      "explicacao": "No PDF original, a Questão 4 (pág. 35) pede a alternativa mais próxima em significado, e a correta é 'In new organic farms, it may take years until the soil recovers its quality and biodiversity'."
+    },
+    {
+      "id": "ex_agri1_16",
+      "tipo": "multipla_escolha",
+      "pergunta": "No parágrafo 1 do texto base, a quem se refere o pronome 'they' na frase 'Although organic farmers... they do have an important role to play'?",
+      "contexto_texto_ref": "Parágrafo 1 do texto base",
+      "opcoes": ["Organic farmers", "Food production", "All regions", "Global population"],
+      "resposta_correta": "Organic farmers",
+      "explicacao": "No PDF original, a Questão 2 (pág. 34) indica que 'they' se refere a 'Organic farmers'."
+    },
+    {
+      "id": "ex_agri1_17",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "É possível criar um sistema alimentar verdadeiramente sustentável combinando práticas orgânicas e convencionais, segundo o texto base. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 3 do texto base",
+      "resposta_correta": true,
+      "explicacao": "'By combining organic and conventional practices... we can create a truly sustainable food system'."
+    },
+    {
+      "id": "ex_agri1_18",
+      "tipo": "pergunta_resposta",
+      "pergunta": "No glossário do texto base, qual a tradução para 'Crop'?",
+      "contexto_texto_ref": "Glossário do texto base",
+      "respostas_aceitas": ["plantas cultivadas", "produtos agrícolas", "cultivated plants", "agricultural produce"],
+      "explicacao": "O glossário define 'Crop' como 'cultivated plants; agricultural produce'."
+    },
+    {
+      "id": "ex_agri1_19",
+      "tipo": "multipla_escolha",
+      "pergunta": "No parágrafo 3 do texto base, a quem se refere o pronome 'those' na frase 'crop yields from organic farming are generally lower than those from conventional agriculture'?",
+      "contexto_texto_ref": "Parágrafo 3 do texto base",
+      "opcoes": ["A Study", "McGill University and the University of Minnesota", "Nature", "Crop yields"],
+      "resposta_correta": "Crop yields",
+      "explicacao": "No PDF original, a Questão 8 (pág. 37) indica que 'those' se refere a 'Crop yields'."
+    },
+    {
+      "id": "ex_agri1_20",
+      "tipo": "multipla_escolha",
+      "pergunta": "Qual a alternativa correta, de acordo com o texto base?",
+      "contexto_texto_ref": "Parágrafo 3 do texto base",
+      "opcoes": ["Black-and-white conventional agriculture responde por 25% dos impactos", "Fazendas orgânicas são ideais para preservar o ambiente", "Segundo estudos, um sistema alimentar sustentável depende de agricultura orgânica eficiente", "Fazendas orgânicas produzem menos, mas é positivo combiná-las com práticas convencionais"],
+      "resposta_correta": "Fazendas orgânicas produzem menos, mas é positivo combiná-las com práticas convencionais",
+      "explicacao": "No PDF original, a Questão 9 (pág. 38) indica a resposta correta como 'Organic farms produce about 25% less, but it is positive to combine them with conventional practices'."
+    }
+  ],
+  "exercicios_fixacao": [
+    {
+      "id": "fix_agri1_1",
+      "tipo": "multipla_escolha",
+      "pergunta": "Revisando o módulo, a palavra 'biased' (tendenciosa) no texto base é mais próxima em significado de qual das alternativas?",
+      "contexto_texto_ref": "Glossário do texto base",
+      "opcoes": ["Distorted", "Accurate", "Objective", "Reliable"],
+      "resposta_correta": "Distorted",
+      "explicacao": "O glossário define 'Biased' como 'distorted; tendentious'."
+    },
+    {
+      "id": "fix_agri1_2",
+      "tipo": "pergunta_resposta",
+      "pergunta": "Qual a principal ideia do texto base?",
+      "contexto_texto_ref": "Visão geral do texto base",
+      "respostas_aceitas": ["não há necessidade de controvérsias entre agricultura orgânica e convencional", "There is no need for controversies between organic and conventional agriculture"],
+      "explicacao": "No PDF original, a Questão 10 (pág. 39) indica a resposta correta como 'There is no need for controversies between organic and conventional agriculture'."
+    },
+    {
+      "id": "fix_agri1_3",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A agricultura orgânica em larga escala tornaria os alimentos inacessíveis para a maioria dos pobres e famintos do mundo. (VERDADEIRO/FALSO)",
+      "contexto_texto_ref": "Parágrafo 2 do texto base",
+      "resposta_correta": false,
+      "explicacao": "O texto diz que 'up-to-date research refutes these arguments'."
+    }
+  ],
+  "desafios": {
+    "facil": {
+      "id": "des_agri1_facil",
+      "tempo_limite_segundos": 60,
+      "palavras": [
+        {"ingles": "organic farmers", "portugues": "agricultores orgânicos", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "global population", "portugues": "população global", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "environmental damage", "portugues": "dano ambiental", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "conventional farms", "portugues": "fazendas convencionais", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "yields", "portugues": "rendimentos", "contexto_ref": "Glossário do texto base"},
+        {"ingles": "synthetic fertilizers", "portugues": "fertilizantes sintéticos", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "pesticides", "portugues": "pesticidas", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "soil", "portugues": "solo", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "biodiversity", "portugues": "biodiversidade", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "chemicals", "portugues": "químicos", "contexto_ref": "Parágrafo 1 do texto base"}
+      ]
+    },
+    "medio": {
+      "id": "des_agri1_medio",
+      "tempo_limite_segundos": 45,
+      "palavras": [
+        {"ingles": "biased hypothesis", "portugues": "hipótese tendenciosa", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "undercuts", "portugues": "prejudica / mina", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "greenhouse gases", "portugues": "gases de efeito estufa", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "unaffordable", "portugues": "inacessível / caro", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "refutes", "portugues": "refuta", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "plots", "portugues": "parcelas (de terra)", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "rain-fed", "portugues": "sequeiro", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "irrigated", "portugues": "irrigado", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "crop yields", "portugues": "rendimento das colheitas", "contexto_ref": "Parágrafo 3 do texto base"},
+        {"ingles": "staples", "portugues": "alimentos básicos", "contexto_ref": "Glossário do texto base"}
+      ]
+    },
+    "dificil": {
+      "id": "des_agri1_dificil",
+      "tempo_limite_segundos": 30,
+      "palavras": [
+        {"ingles": "perennial attempt", "portugues": "tentativa perene", "contexto_ref": "Parágrafo 1 do texto base"},
+        {"ingles": "socioeconomic status", "portugues": "status socioeconômico", "contexto_ref": "Parágrafo 2 do texto base"},
+        {"ingles": "agricultural produce", "portugues": "produção agrícola", "contexto_ref": "Glossário do texto base"},
+        {"ingles": "yield gap", "portugues": "lacuna de rendimento", "contexto_ref": "Parágrafo 3 do texto base"},
+        {"ingles": "ideological debates", "portugues": "debates ideológicos", "contexto_ref": "Parágrafo 3 do texto base"},
+        {"ingles": "pit advocates", "portugues": "opor defensores", "contexto_ref": "Parágrafo 3 do texto base"},
+        {"ingles": "proponents", "portugues": "defensores", "contexto_ref": "Parágrafo 3 do texto base"},
+        {"ingles": "adverse environmental impact", "portugues": "impacto ambiental adverso", "contexto_ref": "Parágrafo 3 do texto base"},
+        {"ingles": "sustainable food system", "portugues": "sistema alimentar sustentável", "contexto_ref": "Parágrafo 3 do texto base"},
+        {"ingles": "maximize food production", "portugues": "maximizar a produção de alimentos", "contexto_ref": "Parágrafo 3 do texto base"}
+      ]
+    }
+  }
+}
