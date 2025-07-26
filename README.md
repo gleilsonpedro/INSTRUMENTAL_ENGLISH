@@ -8,7 +8,7 @@ Um site interativo para treinar inglês instrumental e se preparar para provas d
 
 ## 📌 Índice
 
-- [Visão Geral](#visão-geral)
+- [Visão Geral](#visao-geral)
 - [Funcionalidades](#funcionalidades)
 - [Demonstração](#demonstracao)
 - [Como Usar](#como-usar)
