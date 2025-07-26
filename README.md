@@ -4,9 +4,6 @@
 
 Um site interativo para treinar inglês instrumental e se preparar para provas de proficiência com exercícios dinâmicos e desafios de vocabulário.
 
-<div align="center">
-  <img src="https://github.com/seu-usuario/cerebro-no-comando/blob/main/img/cerebro_feliz.png?raw=true" alt="Mascote Cérebro Feliz" width="200">
-</div>
 
 ## 📌 Índice
 
@@ -127,23 +124,12 @@ Distribuído sob licença MIT. Veja `LICENSE` para mais informações.
 
 ## 📧 Contato
 
-Seu Nome - [@seu_twitter](https://twitter.com/seu_twitter) - seu@email.com
-
-Link do Projeto: [https://github.com/seu-usuario/cerebro-no-comando](https://github.com/seu-usuario/cerebro-no-comando)
+Link do Projeto: [https://github.com/gleilsonpedro/cerebro-no-comando](github.com)
 
 ---
 
 <div align="center">
-  <sub>Criado com ❤️ por <a href="https://github.com/seu-usuario">você</a></sub>
+  <sub>Criado por <a href="https://github.com/gleilsonpedro">você</a></sub>
 </div>
 
 ---
-
-### 📌 Notas Adicionais
-
-- Substitua os placeholders (seu-usuario, demo.gif, links) com suas informações reais
-- Adicione screenshots ou gifs reais do projeto
-- Inclua instruções de instalação se necessário para desenvolvimento
-- Adicione badges adicionais (build status, code coverage, etc.) se aplicável
-
-Quer que eu adicione alguma seção específica ou ajuste algo neste README?
