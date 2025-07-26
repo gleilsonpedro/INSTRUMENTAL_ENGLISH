@@ -20,7 +20,7 @@ Um site interativo para treinar inglês instrumental e se preparar para provas d
 
 ---
 
-## 🌟 Visão Geral
+<h2 id="visao-geral">🌟 Visão Geral</h2>
 
 O "Cérebro no Comando!" é uma plataforma educacional que transforma o aprendizado de inglês instrumental em uma experiência gamificada, com:
 
@@ -32,7 +32,7 @@ O "Cérebro no Comando!" é uma plataforma educacional que transforma o aprendiz
 
 ---
 
-## ✨ Funcionalidades
+<h2 id="funcionalidades">✨ Funcionalidades</h2>
 
 ### 📚 Módulos de Aprendizado
 -   Exercícios de múltipla escolha
@@ -53,13 +53,13 @@ O "Cérebro no Comando!" é uma plataforma educacional que transforma o aprendiz
 
 ---
 
-## 🎮 Demonstração
+<h2 id="demonstracao">🎮 Demonstração</h2>
 
 ![Demonstração do Site](demo.gif)
 
 ---
 
-## 🛠️ Como Usar
+<h2 id="como-usar">🛠️ Como Usar</h2>
 
 1.  Acesse o site [aqui](#) (link para deploy)
 2.  Escolha um módulo de estudo
@@ -69,4 +69,4 @@ O "Cérebro no Comando!" é uma plataforma educacional que transforma o aprendiz
 
 ---
 
-## 📂 Estrutura do Projeto
+<h2 id="estrutura-do-projeto">📂 Estrutura do Projeto</h2>
