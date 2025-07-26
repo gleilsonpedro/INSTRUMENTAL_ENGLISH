@@ -7,15 +7,15 @@ Um site interativo para treinar inglês instrumental e se preparar para provas d
 
 ## 📌 Índice
 
-- [Visão Geral](#-visão-geral)
-- [Funcionalidades](#✨-funcionalidades)
-- [Demonstração](#🎮-demonstração)
-- [Como Usar](#🛠️-como-usar)
-- [Estrutura do Projeto](#📂-estrutura-do-projeto)
-- [Desenvolvimento](#💻-desenvolvimento)
-- [Contribuição](#🤝-contribuição)
-- [Licença](#📜-licença)
-- [Contato](#📧-contato)
+- [Visão Geral](#visao-geral)
+- [Funcionalidades](#funcionalidades)
+- [Demonstração](#demonstracao)
+- [Como Usar](#como-usar)
+- [Estrutura do Projeto](#estrutura-do-projeto)
+- [Desenvolvimento](#desenvolvimento)
+- [Contribuição](#contribuicao)
+- [Licença](#licenca)
+- [Contato](#contato)
 
 ## 🌟 Visão Geral
 
